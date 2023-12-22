@@ -2,7 +2,7 @@
 //6566直播：https://w6566.github.io/tvlive/box/live/live.txt
 
 {
-"spider":"https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/js/tvbox.jar",
+"spider":"https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/jar/pg.jar;md5;efb86a0831e4de3beac0045d23ecbd01",
 
 
 "lives":[{"name":"老友直播","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt"},
