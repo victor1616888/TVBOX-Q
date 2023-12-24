@@ -17,10 +17,139 @@
 //"wallpaper": "https://api.yimian.xyz/img?type=wallpaper",
 "wallpaper": "https://bing.img.run/rand.php",
 
+
+"drive": {
+        "default": 2,
+        "data": [
+            {
+                "name": "🌊七米蓝",
+                "server": "https://al.chirmyram.com",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 1
+            },
+            {
+                "name": "🏓小雅",
+                "server": "http://alist.xiaoya.pro",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 2
+            },
+            {
+                "name": "🎧个人",
+                "server": "https://alist.azad.asia/",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 3
+            },
+            {
+                "name": "🐉神族九帝",
+                "server": "https://alist.shenzjd.com",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 4
+            },
+            {
+                "name": "✨星梦",
+                "server": "https://pan.bashroot.top",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 5
+            },
+            {
+                "name": "💫触光",
+                "server": "https://pan.ichuguang.com",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 6
+            },
+            {
+                "name": "👐雨呢",
+                "server": "https://pan.clun.top/",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 7
+            },
+            {
+                "name": "🧬杜比",
+                "server": "https://dubi.tk",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 8
+            },
+            {
+                "name": "🎧听闻网盘",
+                "server": "https://wangpan.sangxuesheng.com",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": false,
+                "id": 9
+            },
+            {
+                "name": "🤮布满灰尘",
+                "server": "https://pan.baiblog.ren/",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 10
+            },
+            {
+                "name": "☃姬路白雪",
+                "server": "https://pan.jlbx.xyz",
+                "startPage": "",
+                "search": false,
+                "headers": null,
+                "params": null,
+                "isActive": true,
+                "id": 11
+            }
+        ]
+    },
+
+
 "sites":[
+
 {"key": "csp_xp_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 
-{"key":"WebDAV","name":"WebDAV","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":{"vodPic":"https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg","drives":[{"name":"七米藍","server":"https://al.chirmyram.com/dav","user":"alist","pass":"alist"},{"name":"九T-4K","server":"https://drive.9t.ee/","user":"alist","pass":"123402033"}]}},
+{"key":"WebDAV","name":"WebDAV","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":{"vodPic":"https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg",
+"drives":[
+
+{"name":"七米藍","server":"https://al.chirmyram.com/dav","user":"alist","pass":"alist"},
+{"name":"雨呢盘","server":"https://pan.clun.top/dav","user":"clun","pass":"clun"},
+{"name":"🤮布灰","server":"https://pan.baiblog.ren/dav","user":"alist","pass":"alist"},
+{"name":"听梦盘","server":"https://pan.bashroot.top/dav","user":"alist","pass":"alist"},
+
+
+{"name":"九T-4K","server":"https://drive.9t.ee/","user":"alist","pass":"123402033"}
+]}},
 
 {
       "key": "csp_Alist",
@@ -55,6 +184,8 @@
     },
 //https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/js/drpy.js
 //https://mirror.ghproxy.com/https://github.com/gaotianliuyun/gao/blob/master/js/007%E5%BD%B1%E8%A7%86.js
+
+{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/myalist.json"},
 
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
@@ -196,7 +327,6 @@
 {"key":"drpy_js_相声随身听","name":"相声 | 相声随身听[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/相声随身听.js"},
 {"key":"drpy_js_评书随身听","name":"评书 | 评书随身听[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/评书随身听.js"},
 {"key":"drpy_js_武享吧","name":"格斗 | 武享吧[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"ext":"./js/武享吧.js"},
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/alist.json"},
 
 {"key":"drpy_js_58动漫","name":"动漫 | 58动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/58动漫.js"},
 {"key":"drpy_js_AGE动漫","name":"动漫 | AGE动漫[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/AGE动漫.js"},
