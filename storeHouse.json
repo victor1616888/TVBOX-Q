@@ -1,14 +1,17 @@
 ﻿//以下全部出自网络和大佬资源，如有冒犯请联系删除。<所有内容仅供学习使用，请勿用于违法用途>
-//本仓库无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。<请勿相信视频中广告>
+//本仓库无公众号、无盈利、无引流，免费分享，小白自用，请勿宣传，请勿轻信他人，谨防上当受骗。<请勿相信视频中广告>
 //备份地址：https://codeberg.org/victor1616888/tvbox/raw/commit/5a6fec960c55bdbf4c2338cf7efaaa362d36bcad/storeHouse.json
+//特多仓库：https://ghproxy.net/https://raw.githubusercontent.com/hd9211/Tvbox1/main/%E4%BC%98%E8%B4%A8.json
+//网友大仓库：https://ghproxy.net/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
+//6666仓库：https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan
 {
   "urls": [
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/tvbox.json",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/tvbox.json",
       "name": "🙀邕城老友"
     },
     {
-      "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/victor1616888/gao/master/js.json",
       "name": "🙀高天流云 JS"
     },
     {
@@ -16,33 +19,33 @@
       "name": "🚀dxawi线路"
     },
     {
-      "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/victor1616888/gao/master/0821.json",
       "name": "🙀821饭太硬+"
     },
     {
-      "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/victor1616888/gao/master/0822.json",
       "name": "🙀822OK俊于"
     },
     {
-      "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/victor1616888/gao/master/0825.json",
       "name": "🙀825Panda G"
     },
     {
-      "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0826.json",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/victor1616888/gao/master/0826.json",
       "name": "🙀826饭太硬"
     },
     {
-      "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/victor1616888/gao/master/0827.json",
       "name": "🙀827蜂蜜"
     },
     {
-      "url": "https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/XBPQ.json",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/victor1616888/gao/master/XBPQ.json",
       "name": "🙀高天之小米线路"
     },
 
 
 {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/app.json",
       "name": "🙀盒子18线路"
     },
 
@@ -55,41 +58,41 @@
       "name": "🙀香雅情线路"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv.json",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv.json",
       "name": "💖爱TV吧"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv4k.json",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/coderzcr/Awesome-TvBox-Sources/main/tv4k.json",
       "name": "💖纯4K"
     },
    
  {
-      "url": "https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/XYQ.json",
+      "url": "https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/XYQ.json",
       "name": "💖香雅情QIST线路"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/0825.json",
+      "url": "https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/0825.json",
       "name": "💖Panda G-QIST线路"
     },
 {
-      "url": "https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/0821.json",
+      "url": "https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/0821.json",
       "name": "🙀821饭太硬+QIST"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/0822.json",
+      "url": "https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/0822.json",
       "name": "🙀822OK俊于QIST"
     },
  
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/0826.json",
+      "url": "https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/0826.json",
       "name": "🙀826饭太硬QIST"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/0827.json",
+      "url": "https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/0827.json",
       "name": "🙀827蜂蜜QIST"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/js.json",
+      "url": "https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/js.json",
       "name": "💖JS-QIST线路"
     },
     {
@@ -117,7 +120,7 @@
       "name": "🙀喵影线路"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/一木自用.json",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/w1915591935/TVBOX-/main/TVBox/一木自用.json",
       "name": "🍎一木自用线路"
     },
     {
@@ -141,11 +144,11 @@
       "name": "🚀饭太硬备用线路"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
       "name": "🚀宝盒线路"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json",
       "name": "🚀香雅情镜像线路"
     },
     {
@@ -153,7 +156,7 @@
       "name": "🚀蜂蜜线路"
     },
     {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
       "name": "🚀潇洒哥线路"
     },
     {
@@ -165,7 +168,7 @@
       "name": "🚀巧计线路"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/lxhfans/TV/master/tv.txt",
       "name": "🚀乐享汇线路"
     },
     {
@@ -193,7 +196,7 @@
       "name": "🚀骚 0线路"
     },
     {
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+      "url": "https://ghproxy.net/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
       "name": "🚀霜辉月明线路"
     },
     {
@@ -221,7 +224,7 @@
       "name": "🐹云星日记"
     },
     {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/YGBH/main/ygbox.json",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/guot55/YGBH/main/ygbox.json",
       "name": "🐹月光宝盒"
     },
     {
@@ -242,7 +245,7 @@
     },
     {
       "name": "🐝蜂窝接口",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
     },
     {
       "name": "🐼肥猫",
@@ -474,7 +477,7 @@
     },
     {
       "name": "🐝蜂窝接口",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
     },
     {
       "name": "🍑水蜜桃",
@@ -486,7 +489,7 @@
     },
     {
       "name": "🌹香雅情缘",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com//yydfys/yydf/main/XYQTVBox/xyq.json"
     },
     {
       "name": "🔘精选接口",
