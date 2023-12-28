@@ -159,10 +159,9 @@ Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8#https://
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/PLTV/1/224/3221231041/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
-澳門蓮花,http://anren.live/HK/BiIOU11uLA.m3u8
 王刚美食,https://www.goodiptv.club/douyu/8144937#https://live.metshop.top/douyu/8144937
 斗鱼风味美食,https://www.goodiptv.club/douyu/9650849
-斗鱼李子柒美食,https://www.goodiptv.club/douyu/290
+
 第一财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
 IHOT爱旅游,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000056/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000056&livemode=1&stbId=3#http://39.134.65.230/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=1213&channel-id=wasusyt#http://39.134.65.232/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=1213&channel-id=wasusyt#http://39.134.65.229/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=1213&channel-id=wasusyt#http://39.134.65.228/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=1213&channel-id=wasusyt#http://39.134.65.234/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=1213&channel-id=wasusyt#http://39.134.65.235/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=1213&channel-id=wasusyt#http://39.134.65.239/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=1213&channel-id=wasusyt#http://39.134.65.240/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=1213&channel-id=wasusyt#http://39.134.65.241/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=1213&channel-id=wasusyt#http://39.134.65.244/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=1213&channel-id=wasusyt#http://39.134.65.178/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=1213&channel-id=wasusyt#http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
 
