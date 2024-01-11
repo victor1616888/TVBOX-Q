@@ -4,6 +4,7 @@
 //fenxp直播：https://ghproxy.net/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u
 //Meroser直播:https://github.com/Meroser/IPTV/blob/main/IPTV.m3u
 //老友直播：https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt
+//Q线v4v6直播：https://github.com/victor1616888/TVBOX-Q/blob/master/tvlive.txt
 //加速代理：https://ghproxy.net/=https://mirror.ghproxy.com/
 
 {
@@ -19,7 +20,7 @@
 {"name":"惊喜直播","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPV6直播3","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u"},
 {"name":"Meroser V6","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u"},
-
+{"name":"v4v6 Q直播","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"v4v6多路直播","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/mcp2016/TVBox/main/lives.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"乐享IPV6直播","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt"},
@@ -188,7 +189,7 @@
 		},
               
 
-
+{"key":"配置中心","name":"配置 | 中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
 {"key":"WebDAV","name":"WebDAV","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":{"vodPic":"https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg",
 "drives":[
 
@@ -446,7 +447,7 @@
 {"key":"drpy_js_愛盤搜","name":"夸克 | 爱盘搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aipanso.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_趣盤搜","name":"夸克 | 趣盘搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/funletu.js", "quickSearch":1, "changeable":1, "timeout":30},
 {"key":"drpy_js_meow","name":"影视 | meow搜[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/meow.js", "quickSearch":1, "changeable":1, "timeout":30}, 
-{"key":"配置中心","name":"配置 | 中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
+
 {"key": "push_quark","name": "夸克 | 推送","type": 3,"api": "csp_Quark","changeable":0,"ext": "http://127.0.0.1:9978/file/TV/quark.txt", "timeout":30},
 {"key":"push_agent","name":"手机 | 推送[jar]","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json", "timeout":30},
 
