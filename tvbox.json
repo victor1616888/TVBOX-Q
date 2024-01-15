@@ -8,18 +8,21 @@
 //加速代理：https://ghproxy.net/=https://mirror.ghproxy.com/
 
 {
-"spider":"https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
+//"spider":"https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
 "warningText": "自用接口，免费使用，请勿传播！",
 
 
 "lives":[{"name":"老友直播","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/20230109.txt"},
+{"name":"Meroser V6","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u"},
+{"name":"范明明IPV6","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPV6直播1","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://github.com/sxttux/TVBox/blob/main/tvIPv6.txt"},
 {"name":"IPV6直播2","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/ll996075dd/tvbox/main/api/lib/live.txt"},
 {"name":"王健直播","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://w6566.github.io/tvlive/box/live/live.txt"},
-{"name":"范明明IPV6","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+
 {"name":"惊喜直播","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPV6直播3","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u"},
-{"name":"Meroser V6","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u"},
+
 {"name":"v4v6 Q直播","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"v4v6多路直播","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/mcp2016/TVBox/main/lives.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
@@ -329,7 +332,7 @@
 //https://ghproxy.net/https://github.com/gaotianliuyun/gao/blob/master/js/007%E5%BD%B1%E8%A7%86.js
 
 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/myalist.json"},
-
+{"key":"萌米","name":"萌米┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_4KHDR","name":"磁力 | 4KHDR[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
