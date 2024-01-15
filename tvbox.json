@@ -1,10 +1,12 @@
-﻿//范明明直播：https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+﻿//范明明v6直播：https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+//范明明V4直播：https://github.com/fanmingming/live/blob/main/tv/m3u/domainv6.m3u
 //王健直播：https://w6566.github.io/tvlive/box/live/live.txt
 //惊喜直播：https://github.com/Supprise0901/TVBox_live/blob/main/live.txt
 //fenxp直播：https://ghproxy.net/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u
 //Meroser直播:https://github.com/Meroser/IPTV/blob/main/IPTV.m3u
 //老友直播：https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt
 //Q线v4v6直播：https://github.com/victor1616888/TVBOX-Q/blob/master/tvlive.txt
+//huanyue v6直播：https://github.com/xhuanyue/IPTV6/blob/main/ipv6.m3u
 //加速代理：https://ghproxy.net/=https://mirror.ghproxy.com/
 
 {
@@ -27,6 +29,9 @@
 {"name":"v4v6多路直播","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/mcp2016/TVBox/main/lives.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 
 {"name":"乐享IPV6直播","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt"},
+
+{"name":"范明明IPV4","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/domainv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+
 {"name":"番茄•综合","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"http://fanqie.gq/a/1701859592.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Ray•综合","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YuanHsing•油管","type":0,"url":"https://fongmi.cachefly.net/YuanHsing/YouTube_to_m3u/main/youtube.m3u"},
