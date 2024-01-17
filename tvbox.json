@@ -178,7 +178,9 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": {
-				"vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
+//https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png
+//https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg				
+"vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
 				"drives": [{
 					"name": "4K盘",
 					"server": "https://pan.mediy.cn/"
@@ -199,7 +201,7 @@
 
 {"key":"配置中心","name":"配置 | 中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
 
-{"key":"WebDAV","name":"WebDAV","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":{"vodPic":"https://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20180504/82b2eff6f5bf489e9b4a90fbe9fc7e84.jpeg",
+{"key":"WebDAV","name":"WebDAV","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":{"vodPic":"https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
 "drives":[
 
 {"name":"七米藍","server":"https://al.chirmyram.com/dav","user":"alist","pass":"alist"},
