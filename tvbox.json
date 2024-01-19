@@ -200,6 +200,13 @@
             "searchable": true,
             "server": "http://movie.wangzm.tk"
           },
+
+{
+            "name": "小雅2",
+            "search": true,
+            "searchable": true,
+            "server": "https://an.clun.top/"
+          },
 {
                 "name": "🌊七米蓝",
                 "server": "https://al.chirmyram.com",
@@ -234,7 +241,19 @@
     },
 
 {"name":"九T-4K","server":"https://drive.9t.ee/","user":" ","pass":"123402033"},
-{"name":"白雪","server":"https://pan.jlbx.xyz/","user":"alist","pass":"alist"},
+{"name":"白雪","server":"https://pan.jlbx.xyz/"},
+{"name":"微资源","server":"https://apps.weixinqqq.com/"},
+ {
+      "name": "✨星梦",
+      "server": "https://pan.bashroot.top"
+   },
+
+{"name":"触光","server":"https://pan.ichuguang.com/"},
+
+{
+      "name": "ECVE",
+      "server": "https://pan.ecve.cn"
+    },
 
 
 {
@@ -300,7 +319,7 @@
       "name": "💢repl",
       "server": "https://ali.liucn.repl.co"
    },
-{"name":"听梦盘","server":"https://pan.bashroot.top/dav","user":"alist","pass":"alist"},
+
 {"name":"触光","server":"https://pan.ichuguang.com/dav","user":"alist","pass":"alist"},
 {"name":"杜比","server":"https://dubi.tk/dav","user":"alist","pass":"alist"},
 {
