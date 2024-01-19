@@ -45,121 +45,6 @@
 "wallpaper": "https://bing.img.run/rand.php",
 
 
-"drive": {
-        "default": 2,
-        "data": [
-            {
-                "name": "🌊七米蓝",
-                "server": "https://al.chirmyram.com",
-                "startPage": "",
-                "search": false,
-                "headers": null,
-                "params": null,
-                "isActive": true,
-                "id": 1
-            },
-            {
-                "name": "🏓小雅",
-                "server": "http://alist.xiaoya.pro",
-                "startPage": "",
-                "search": false,
-                "headers": null,
-                "params": null,
-                "isActive": true,
-                "id": 2
-            },
-            {
-                "name": "🎧个人",
-                "server": "https://alist.azad.asia/",
-                "startPage": "",
-                "search": false,
-                "headers": null,
-                "params": null,
-                "isActive": true,
-                "id": 3
-            },
-            {
-                "name": "🐉神族九帝",
-                "server": "https://alist.shenzjd.com",
-                "startPage": "",
-                "search": false,
-                "headers": null,
-                "params": null,
-                "isActive": true,
-                "id": 4
-            },
-            {
-                "name": "✨星梦",
-                "server": "https://pan.bashroot.top",
-                "startPage": "",
-                "search": false,
-                "headers": null,
-                "params": null,
-                "isActive": true,
-                "id": 5
-            },
-            {
-                "name": "💫触光",
-                "server": "https://pan.ichuguang.com",
-                "startPage": "",
-                "search": false,
-                "headers": null,
-                "params": null,
-                "isActive": true,
-                "id": 6
-            },
-            {
-                "name": "👐雨呢",
-                "server": "https://pan.clun.top/",
-                "startPage": "",
-                "search": false,
-                "headers": null,
-                "params": null,
-                "isActive": true,
-                "id": 7
-            },
-            {
-                "name": "🧬杜比",
-                "server": "https://dubi.tk",
-                "startPage": "",
-                "search": false,
-                "headers": null,
-                "params": null,
-                "isActive": true,
-                "id": 8
-            },
-            {
-                "name": "🎧听闻网盘",
-                "server": "https://wangpan.sangxuesheng.com",
-                "startPage": "",
-                "search": false,
-                "headers": null,
-                "params": null,
-                "isActive": false,
-                "id": 9
-            },
-            {
-                "name": "🤮布满灰尘",
-                "server": "https://pan.baiblog.ren/",
-                "startPage": "",
-                "search": false,
-                "headers": null,
-                "params": null,
-                "isActive": true,
-                "id": 10
-            },
-            {
-                "name": "☃姬路白雪",
-                "server": "https://pan.jlbx.xyz",
-                "startPage": "",
-                "search": false,
-                "headers": null,
-                "params": null,
-                "isActive": true,
-                "id": 11
-            }
-        ]
-    },
 //https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad
 //https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;364c0f012e73a8801a69900fc25ae9c1
 
@@ -182,7 +67,7 @@
 //https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg				
 "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
 				"drives": [{
-					"name": "4K盘",
+					"name": "托盘",
 					"server": "https://pan.mediy.cn/"
 				},
 
@@ -243,6 +128,10 @@
 {"name":"九T-4K","server":"https://drive.9t.ee/","user":" ","pass":"123402033"},
 {"name":"白雪","server":"https://pan.jlbx.xyz/"},
 {"name":"微资源","server":"https://apps.weixinqqq.com/"},
+{
+                "name": "🎧azad",
+                "server": "https://alist.azad.asia/"
+          },
  {
       "name": "✨星梦",
       "server": "https://pan.bashroot.top"
@@ -363,42 +252,25 @@
       "server": "http://101.204.33.244:5678/"
     },
 
+{
+                "name": "🎧azad",
+                "server": "https://alist.azad.asia/"
+          },
+
+
+
+
+
 {"name":"九T-4K","server":"https://drive.9t.ee/","user":" ","pass":"123402033"},
 {"name":"白雪","server":"https://pan.jlbx.xyz/","user":"alist","pass":"alist"}
 
 
 ]}},
 
-{
-      "key": "csp_Alist",
-      "name": "Alist(SP)",
-      "type": 3,
-      "api": "csp_Alist",
-      "searchable": 0,
-      "playerType": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": {
-        "💢小雅":"http://alistxy.ganggang.live:5678",
-        "🦀9T(Adult)": "https://drive.9t.ee",
-        "🌤晴园的宝藏库": "https://alist.52qy.repl.co",
-        "🐭米奇妙妙屋": "https://anime.mqmmw.ga",
-        "💂小兵组网盘影视": "https://6vv.app",
-        
-        "🌊七米蓝": "https://al.chirmyram.com",
-       
-        "🐉神族九帝": "https://alist.shenzjd.com",
-        "☃️姬路白雪": "https://pan.jlbx.xyz",
-     
-        "🌨云播放": "https://quanzi.laoxianghuijia.cn",
-        "✨星梦": "https://pan.bashroot.top"
-   
-      }
-    },
 //https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/js/drpy.js
 //https://ghproxy.net/https://github.com/gaotianliuyun/gao/blob/master/js/007%E5%BD%B1%E8%A7%86.js
 
-{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","changeable":0,"ext":"./js/myalist.json"},
+
 {"key":"萌米","name":"萌米┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
