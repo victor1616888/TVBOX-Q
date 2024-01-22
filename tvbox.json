@@ -10,11 +10,13 @@
 //加速代理：https://ghproxy.net/=https://mirror.ghproxy.com/
 //https://epg.112114.eu.org/=https://epg.112114.xyz/=https://diyp.112114.xyz/ =https://live.fanmingming.com/tv/{频道名称}.png
 {
-//"spider":"https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
+"spider":"https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
+//"spider":"https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/jar/pg.jar;md5;2924f2b9e4587a8057af85af1f380be1",
 //肥猫jar:http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb", 
 //菜妮丝: "spider": "https://tvbox.cainisi.cf/jar/fty0101.jar;md5;fd784008ab71d81a178564841059756d",
 //饭太硬："spider":"https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/jar/fan.txt;md5;28c7950d7b33ba3ee8e2d322882ffa87",
- "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+//"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704615937579/fan.txt;md5;5aee1ff968a3dc5cbbf225399e9441e9",
+//香雅情："spider": "https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/jar/XYQ.jar;md5;6120d08f4eb1edce507bfcd1b339c482",
 // "spider": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
 "warningText": "自用综合接口，完全免费使用，请勿传播！",
 
