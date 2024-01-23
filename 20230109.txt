@@ -98,6 +98,7 @@ BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/0000000100000006000000000000
 自然风光8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8#http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw2719251851_-1177059607/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 CCTV16-4K,http://39.134.66.2/PLTV/88888888/224/3221225655/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8#http://39.134.66.2/PLTV/88888888/224/3221225655/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
+超高清电影,https://live3.rxip.sc96655.com/live/emdy4k_8000.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -203,7 +204,8 @@ CCTV16-4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[22409:8087:2001:20:2800:0:df6e:eb23]/PLTV/1/224/3221231022/1.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231022/1.m3u8#http://222.217.246.54:8282/tsfile/live/1083_1.m3u8
-
+凤凰中文,https://live3.rxip.sc96655.com/live/test1_4000.m3u8
+凤凰资讯,https://live3.rxip.sc96655.com/live/test2_4000.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221231041/1.m3u8#https://0472.org/hls/youzaiSB/fhhk.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/PLTV/1/224/3221231041/1.m3u8
@@ -2375,6 +2377,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/600000000600
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 动作大片,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1555700033_-766721196/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8?icpid=3&RTS=1674385966&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 华数超清,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+峨嵋电影,https://live3.rxip.sc96655.com/live/emdygqH265_4000.m3u8
 明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1933970761_1509977631/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8?icpid=3&RTS=1674386344&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1744141582_1739723586/ott.mobaibox.com/PLTV/3/224/3221227301/index.m3u8?icpid=3&RTS=1674386154&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 精彩影视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3

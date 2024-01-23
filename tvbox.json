@@ -33,7 +33,7 @@
 {"name":"惊喜v4v6多线","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"fenxp上海V6","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u"},
 
-{"name":"v4v6 Q直播","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name":" Q线路v4v6直播","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"mcpv4v6多路","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/mcp2016/TVBox/main/lives.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
 
 {"name":"乐享多线v6","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt"},
