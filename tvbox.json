@@ -1,5 +1,5 @@
 ﻿//收集自各大佬的公开资源，自用综合接口，完全免费使用，请勿传播！如有侵权，请联系删除。
-//建议使用蜂蜜或影视仓新版APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用panda大佬的jar包，如有需要可自行进行调整。
+//建议使用蜂蜜、Catbox或影视仓新版APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用panda大佬的jar包，如有需要可自行进行调整。
 //范明明v6直播：https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 //范明明V4直播：https://github.com/fanmingming/live/blob/main/tv/m3u/domainv6.m3u
 //王健直播：https://w6566.github.io/tvlive/box/live/live.txt
@@ -11,7 +11,7 @@
 //huanyue v6直播：https://github.com/xhuanyue/IPTV6/blob/main/ipv6.m3u
 //酒店源：https://ghproxy.net/https://raw.githubusercontent.com/xiaotong1995/iptv-scan/main/IPTV.txt
 //加速代理：https://ghproxy.net/=https://mirror.ghproxy.com/
-//https://epg.112114.eu.org/=https://epg.112114.xyz/=https://diyp.112114.xyz/ =https://live.fanmingming.com/tv/{频道名称}.png
+//https://epg.112114.eu.org/=https://epg.112114.xyz/=https://diyp.112114.xyz/ =https://live.fanmingming.com/tv/{频道名称}.png=https://epg.erw.cc/api/diyp/?ch={name}&date={date}
 {
 "spider":"https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
 //"spider":"https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/jar/pg.jar;md5;2924f2b9e4587a8057af85af1f380be1",
@@ -23,7 +23,7 @@
 // "spider": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
 "warningText": "自用综合接口，完全免费使用，请勿传播！",
 
-"lives":[{"name":"老友直播","playerType": 1,"type":0,"epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/20230109.txt"},
+"lives":[{"name":"老友直播","playerType": 1,"type":0,"epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/20230109.txt"},
 {"name":"Meroser内蒙V6","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png","url":"https://ghproxy.net/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u"},
 {"name":"范明明上海V6","playerType": 1,"ua": "okhttp/3.15","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"陕西移动V6","playerType": 1,"ua": "okhttp/3.15","type":0,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png","url":"https://ghproxy.net/https://github.com/sxttux/TVBox/blob/main/tvIPv6.txt"},
@@ -161,8 +161,8 @@
 			}
 		},
               
-{"key":"配置中心","name":"配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D"},
-//{"key":"配置中心","name":"配置 | 中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
+//{"key":"配置中心","name":"配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"jar":"./jar/ok.png;md5;E5F0A5283309C662BDAF3659A55E9F1D"},
+{"key":"配置中心","name":"配置 | 中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://127.0.0.1:9978/file/TV/token.json"},
 
 {"key":"WebDAV","name":"WebDAV","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":{"vodPic":"https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
 "drives":[
@@ -283,6 +283,28 @@
 {"key":"萌米","name":"萌米┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/gao/master/js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.db.gz"},
+{
+      "key": "csp_KungFu404",
+      "name": "无意云｜设置token",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt",
+      "jar": "http://www.wya6.cn/tz/wyalqd.php"
+    },
+// {
+      "key": "网盘配置",
+      "name": "无意云｜配置中心",
+      "type": 3,
+      "api": "csp_Config",
+      "jar": "http://www.wya6.cn/tz/wypg.php",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "http://www.wya6.cn/tz/pgts.php"
+    },
+
 {"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://127.0.0.1:9978/file/TV/token.json$$$./json/alishare.txt"},
 {"key":"drpy_js_磁力熊搜索","name":"搜索 | 磁力熊[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_4KHDR","name":"磁力 | 4KHDR[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4khdr.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
@@ -293,6 +315,7 @@
 {"key":"drpy_js_4K电影网","name":"影视 | 4K电影网[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4K电影网.js"},
 {"key":"Xinsj","name":"👓视觉┃直连","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"南坊","name":"☀南坊┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="},
+
 {"key":"南瓜","name":"🎃南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"九六","name":"🎀九六┃直连","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
