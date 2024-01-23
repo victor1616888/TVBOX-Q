@@ -11,7 +11,7 @@
 //huanyue v6直播：https://github.com/xhuanyue/IPTV6/blob/main/ipv6.m3u
 //酒店源：https://ghproxy.net/https://raw.githubusercontent.com/xiaotong1995/iptv-scan/main/IPTV.txt
 //加速代理：https://ghproxy.net/=https://mirror.ghproxy.com/
-//https://epg.112114.eu.org/=https://epg.112114.xyz/=https://diyp.112114.xyz/ =https://live.fanmingming.com/tv/{频道名称}.png=https://epg.erw.cc/api/diyp/?ch={name}&date={date}
+//https://epg.112114.eu.org/=https://epg.112114.xyz/=https://diyp.112114.xyz/ =https://epg.erw.cc/api/diyp/
 {
 "spider":"https://ghproxy.net/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
 //"spider":"https://ghproxy.net/https://github.com/victor1616888/TVBOX-Q/blob/master/jar/pg.jar;md5;2924f2b9e4587a8057af85af1f380be1",
