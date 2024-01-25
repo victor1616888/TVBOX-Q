@@ -1,5 +1,5 @@
-﻿//收集自各大佬的公开资源，自用综合接口，完全免费使用，请勿传播！如有侵权，请联系删除。
-//本接口建议使用蜂蜜、Catbox或影视仓新版APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用fan大佬的jar包，如有需要可自行进行调整。
+﻿//收集自各大佬的公开资源，自用综合接口,含网盘资源，一条线路通吃全网。完全免费使用，请勿传播！如有侵权，请联系删除。请勿用于违法用途！
+//本接口建议使用蜂蜜、Catbox或影视仓新版APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用Panda大佬的jar包，如有需要可自行进行调整。
 //范明明v6直播：https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 //范明明V4直播：https://github.com/fanmingming/live/blob/main/tv/m3u/domainv6.m3u
 //王健直播：https://w6566.github.io/tvlive/box/live/live.txt
@@ -1546,7 +1546,7 @@
     },
     {
       "key": "AliShare",
-      "name": "弹幕 | 阿里云盘分享[jar]",
+      "name": "阿里云盘分享[jar]",
       "type": 3,
       "api": "csp_AliShare",
       "searchable": 1,
