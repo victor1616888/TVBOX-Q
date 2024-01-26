@@ -1,4 +1,4 @@
-﻿//收集自各大佬的公开资源，自用综合接口,含网盘资源，一条线路通吃全网。完全免费使用，请勿传播！如有侵权，请联系删除。请勿用于违法用途！
+﻿//收集自各大佬的公开资源，自用综合接口,含网盘资源，一条线路看全网。免费使用，请勿传播！如有侵权，请联系删除。请勿用于违法用途！
 //本接口建议使用蜂蜜、Catbox或影视仓APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用Panda大佬的jar包，如有需要可自行进行调整。
 //范明明v6直播：https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 //范明明V4直播：https://github.com/fanmingming/live/blob/main/tv/m3u/domainv6.m3u
@@ -17,7 +17,7 @@
 //"spider": "https://mirror.ghproxy.com//https://github.com/victor1616888/gao/blob/master/jar/fan.txt;md5;ea09c2021f8e6b353b77a48b8a23bdf0",
  //"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
 
-"spider": "https://mirror.ghproxy.com/https://github.com/victor1616888/gao/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
+"spider": "https://d.kstore.space/download/3329/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
   "warningText": "自用综合接口，完全免费使用，请勿传播！",
   "lives": [
     {
@@ -26,7 +26,7 @@
       "type": 0,
       "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/gao/master/20230109.txt"
+      "url": "https://d.kstore.space/download/3329/20230109.txt"
     },
     {
       "name": "Meroser内蒙V6",
@@ -205,8 +205,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
+      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5"
     },
     {
       "key": "csp_xp_yinfans",
@@ -617,8 +617,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-     "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",  
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",  
+     "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5"
     },
     {
       "key": "YGP",
@@ -4792,7 +4792,7 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com",
     "static-mozai.4gtv.tv",
-   "mimg.0c1q0l.cn",
+  
     "www.googletagmanager.com",
     "www.google-analytics.com",
     "mc.usihnbcq.cn",
@@ -4848,7 +4848,7 @@
     "vivovip.mmszxc.top",
     "qiu.xixiqiu.com",
      "siwazyw.net",
- "mimg.0c1q0l.cn",
+
     "mc.usihnbcq.cn",
     "mg.g1mm3d.cn",
     "mscs.svaeuzh.cn",
