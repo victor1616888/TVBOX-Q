@@ -37,7 +37,7 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u"
     },
     {
-      "name": "范明明上海V6",
+      "name": "范明明陕西V6",
       "playerType": 1,
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
@@ -45,6 +45,37 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
+
+
+ {
+      "name": "yue365-FMM-V6",
+      "playerType": 1,
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+
+ {
+      "name": "yue365-V6",
+      "playerType": 1,
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yue365/IPTV/master/IPTV.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+  {
+      "name": "YueChan陕西V6",
+      "playerType": 1,
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
+
     {
       "name": "陕西移动V6",
       "playerType": 1,
@@ -79,7 +110,7 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "fenxp上海V6",
+      "name": "fenxp陕西V6",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -339,6 +370,10 @@
             "user": "alist",
             "pass": "alist"
           },
+  {
+            "name": "七米藍2",
+            "server": "https://al.chirmyram.com"
+          },
           {
             "name": "雨呢盘",
             "server": "https://pan.clun.top/dav",
@@ -405,7 +440,7 @@
             "name": "🐉神族九帝",
             "server": "https://alist.shenzjd.com"
           },
-          {
+        {
             "name": "☃️姬路白雪",
             "server": "https://pan.jlbx.xyz"
           },
@@ -445,14 +480,8 @@
             "name": "一只魚",
             "server": "https://vtok.pp.ua/"
           },
-          {
-            "name": "七米藍",
-            "server": "https://al.chirmyram.com"
-          },
-          {
-            "name": "神族九帝",
-            "server": "https://alist.shenzjd.com"
-          },
+        
+          
           {
             "name": "梓澪",
             "server": "https://zi0.cc"
