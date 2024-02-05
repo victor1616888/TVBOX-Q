@@ -4,11 +4,12 @@
 //范明明V4直播：https://github.com/fanmingming/live/blob/main/tv/m3u/domainv6.m3u
 //王健直播：https://w6566.github.io/tvlive/box/live/live.txt
 //惊喜直播：https://github.com/Supprise0901/TVBox_live/blob/main/live.txt
-//fenxp直播：https://mirror.ghproxy.com/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u
+//PizazzGY直播：https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
 //Meroser直播:https://github.com/Meroser/IPTV/blob/main/IPTV.m3u
 //老友直播：https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt
 //Q线v4v6直播：https://github.com/victor1616888/TVBOX-Q/blob/master/tvlive.txt
 //huanyue v6直播：https://github.com/xhuanyue/IPTV6/blob/main/ipv6.m3u
+//Moexin直播:https://ghproxy.net/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u
 //EPG:https://epg.erw.cc/api/diyp/?ch={name}&date={date}与http://epg.112114.xyz/?ch={name}&date={date}都可以
 //音范丝：https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json
 {
@@ -21,7 +22,7 @@
   "warningText": "自用综合接口，完全免费使用，请勿传播！",
   "lives": [
     {
-      "name": "老友直播",
+      "name": "老友凯速直播",
       "playerType": 1,
       "type": 0,
       "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
@@ -45,7 +46,15 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
-
+{
+      "name": "PizazzGY潇洒V4V6",
+      "playerType": 1,
+      "type": 0,
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
 
  {
       "name": "yue365-FMM-V6",
@@ -4334,180 +4343,20 @@
     }
   ],
   "rules": [
-    {
-      "name": "proxy",
-      "hosts": [
-        "mypikpak.com",
-        ".*workers.dev",
-        "www.cilixiong.com",
-        "*.t4tv.hz.cz",
-        "kuba222.com",
-        "mp4us.com",
-        "dydhhy.com",
-        "magicalsearch.top",
-        "api123.adys.app",
-        "dmku.thefilehosting.com",
-        "raw.githubusercontent.com",
-        "googlevideo.com",
-        "cdn.v82u1l.com",
-        "cdn.iz8qkg.com",
-        "cdn.kin6c1.com",
-        "c.biggggg.com",
-        "c.olddddd.com",
-        "haiwaikan.com",
-        "www.histar.tv",
-        "youtube.com",
-        "uhibo.com",
-        ".*boku.*",
-        ".*nivod.*",
-        ".*ulivetv.*"
-      ]
-    },
-    {
-      "name": "七新嗅探",
-      "hosts": [
-        "api.52wyb.com"
-      ],
-      "regex": [
-        "m3u8?pt=m3u8"
-      ]
-    },
-    {
-      "name": "夜市",
-      "hosts": [
-        "yeslivetv.com"
-      ],
-      "script": [
-        "document.getElementsByClassName('vjs-big-play-button')[0].click()"
-      ]
-    },
-    {
-      "name": "毛驢",
-      "hosts": [
-        "www.maolvys.com"
-      ],
-      "script": [
-        "document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"
-      ]
-    },
-    {
-      "name": "海外看",
-      "hosts": [
-        "haiwaikan"
-      ],
-      "regex": [
-        "10.0099",
-        "10.3333",
-        "16.0599",
-        "8.1748",
-        "12.33",
-        "10.85"
-      ]
-    },
-    {
-      "name": "索尼",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "15.1666",
-        "15.2666"
-      ]
-    },
-    {
-      "name": "暴风廣告",
-      "hosts": [
-        "bfzy"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "磁力廣告",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "更多",
-        "社區",
-        "xuu",
-        "最新",
-        "最新",
-        "直播",
-        "更新",
-        "社区",
-        "有趣",
-        "有趣",
-        "英皇体育",
-        "全中文AV在线",
-        "澳门皇冠赌场",
-        "哥哥快来",
-        "美女荷官",
-        "裸聊",
-        "新片首发",
-        "UUE29"
-      ]
-    },
-    {
-      "name": "星星",
-      "hosts": [
-        "aws.ulivetv.net"
-      ],
-      "regex": [
-        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-      ]
-    },
-    {
-      "name": "量子廣告",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz1",
-        "v.cdnlz"
-      ],
-      "regex": [
-        "18.5333"
-      ]
-    },
-    {
-      "name": "非凡廣告",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": [
-        "25.0666",
-        "25.08"
-      ]
-    },
-    {
-      "name": "火山嗅探",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "抖音嗅探",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
-      ]
-    },
-    {
-      "name": "農民嗅探",
-      "hosts": [
-        "toutiaovod.com"
-      ],
-      "regex": [
-        "video/tos/cn"
-      ]
-    }
+  {"name":"proxy","hosts":["mypikpak.com",".*workers.dev","www.cilixiong.com","*.t4tv.hz.cz","kuba222.com","mp4us.com","dydhhy.com","magicalsearch.top","api123.adys.app","dmku.thefilehosting.com","raw.githubusercontent.com","googlevideo.com","cdn.v82u1l.com","cdn.iz8qkg.com","cdn.kin6c1.com","c.biggggg.com","c.olddddd.com","haiwaikan.com","www.histar.tv","youtube.com","uhibo.com",".*boku.*",".*nivod.*",".*ulivetv.*"]},
+{"name":"七新嗅探","hosts":["api.52wyb.com"],"regex":["m3u8?pt=m3u8"]},
+{"name":"夜市","hosts":["yeslivetv.com"],"script":["document.getElementsByClassName('vjs-big-play-button')[0].click()"]},
+{"name":"毛驢","hosts":["www.maolvys.com"],"script":["document.getElementsByClassName('swal-buttonswal-button--confirm')[0].click()"]},
+{"name":"海外看","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","12.33","10.85"]},
+{"name":"索尼","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
+{"name":"暴风廣告","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"磁力廣告","hosts":["magnet"],"regex":["更多","社區","xuu","最新","最新","直播","更新","社区","有趣","有趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
+{"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"量子廣告","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["18.5333"]},
+{"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666","25.08"]},
+{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
+{"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
+{"name":"農民嗅探","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]}
   ],
   "ads": [
     "mimg.0c1q0l.cn",
