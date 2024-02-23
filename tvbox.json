@@ -5,14 +5,14 @@
 //王健直播：https://www.xn--rgv465a.top/box/live/live.txt
 //王健直播2：https://www.cwss.xyz/box/live/live.txt
 //惊喜直播：https://github.com/Supprise0901/TVBox_live/blob/main/live.txt
-//PizazzGY直播：https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
+//PizazzGY直播：https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
 //Meroser直播:https://github.com/Meroser/IPTV/blob/main/IPTV.m3u
 //老友直播：https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt
 //Q线v4v6直播：https://github.com/victor1616888/TVBOX-Q/blob/master/tvlive.txt
 //huanyue v6直播：https://github.com/xhuanyue/IPTV6/blob/main/ipv6.m3u
-//Moexin直播:https://ghproxy.net/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u
+//Moexin直播:https://mirror.ghproxy.com/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u
 //EPG:https://epg.erw.cc/api/diyp/?ch={name}&date={date}与http://epg.112114.xyz/?ch={name}&date={date}都可以
-//音范丝：https://ghproxy.net/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json
+//音范丝：https://mirror.ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json
 {
   //"spider": "https://mirror.ghproxy.com/https://github.com/victor1616888/gao/blob/master/jar/XYQ.jar;md5;6120d08f4eb1edce507bfcd1b339c482",
 //"spider": "https://gitee.com/yobnn/tvbox/raw/master/tvbox/YSC.jar;md5;3f08f3d7e02cdf04894f1befeefd0d4b",
@@ -51,7 +51,7 @@
       "name": "PizazzGY潇洒V4V6",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
@@ -61,7 +61,7 @@
       "name": "yue365-FMM-V6",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
@@ -71,7 +71,7 @@
       "name": "yue365-V6",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/yue365/IPTV/master/IPTV.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yue365/IPTV/master/IPTV.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
@@ -80,7 +80,7 @@
       "name": "YueChan陕西V6",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
