@@ -2,7 +2,8 @@
 //本接口建议使用蜂蜜、Catbox或影视仓APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用Panda大佬的jar包，如有需要可自行进行调整。
 //范明明v6直播：https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 //范明明V4直播：https://github.com/fanmingming/live/blob/main/tv/m3u/domainv6.m3u
-//王健直播：https://w6566.github.io/tvlive/box/live/live.txt
+//王健直播：https://www.xn--rgv465a.top/box/live/live.txt
+//王健直播2：https://www.cwss.xyz/box/live/live.txt
 //惊喜直播：https://github.com/Supprise0901/TVBox_live/blob/main/live.txt
 //PizazzGY直播：https://ghproxy.net/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
 //Meroser直播:https://github.com/Meroser/IPTV/blob/main/IPTV.m3u
@@ -107,7 +108,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://w6566.github.io/tvlive/box/live/live.txt"
+      "url": "https://www.cwss.xyz/box/live/live.txt"
     },
     {
       "name": "惊喜v4v6多线",
@@ -244,9 +245,10 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5"
+      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg==",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707552573492/fan.txt;md5;4eec8bf0a642330662224a01636e0df6"
     },
+
     {
       "key": "csp_xp_yinfans",
       "name": "💥音范丝4K",
@@ -536,6 +538,10 @@
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/"
     },
+{"key":"csp_AppYsV2_如意4K","name":"🍼┃如意4k|追剧","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+{"key":"csp_蚂蚁4K","name": "💾┃蚂蚁┃♉磁力","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/alanchaotang/if/raw/branch/main/XYQHiker/%E8%9A%82%E8%9A%814K.json","jar":"https://agit.ai/alanchaotang/if/raw/branch/main/jar/custom_spider.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
+{"key": "dr_北川","name":"🍨┃北川┃🦁","type":3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/北川影视.js"},
+{"key": "dr_4K视界","name":"🐡┃4K视界┃🦁","type":3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/4K视界[V2].jsd"},
     {
       "key": "配置中心",
       "name": "阿里云盘配置",
