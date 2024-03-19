@@ -30,6 +30,24 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "url": "https://d.kstore.space/download/3329/20230109.txt"
     },
+
+  {
+      "name": "MyGithub v4+V6",
+      "playerType": 1,
+      "type": 0,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/IPTV.txt"
+    },
+
+ {
+      "name": "无界2 v4+V6",
+      "playerType": 1,
+      "type": 0,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "url": "https://www.cwss.xyz/无界直播禁止贩卖"
+    },
     {
       "name": "MeroserV6",
       "playerType": 1,
@@ -68,10 +86,10 @@
     },
 
  {
-      "name": "yue365-V6",
+      "name": "无界V6",
       "playerType": 1,
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yue365/IPTV/master/IPTV.txt",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/main/IPTV/%E6%97%A0%E7%95%8C.IPTV",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
@@ -103,12 +121,12 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ll996075dd/tvbox/main/api/lib/live.txt"
     },
     {
-      "name": "王健海南V6",
+      "name": "王健无界V6",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://www.cwss.xyz/box/live/live.txt"
+      "url": "https://www.xn--rgv465a.top/无界直播禁止贩卖"
     },
     {
       "name": "惊喜v4v6多线",
@@ -145,23 +163,8 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
-    {
-      "name": "乐享多线v6",
-      "playerType": 1,
-      "type": 0,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt"
-    },
-    {
-      "name": "范明明IPV4",
-      "playerType": 1,
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/domainv6.m3u",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
+    
+   
     {
       "name": "酒店源",
       "playerType": 1,
@@ -171,7 +174,15 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaotong1995/iptv-scan/main/IPTV.txt"
     },
 
-   {
+    {
+      "name": "hujingguang源",
+      "playerType": 1,
+      "type": 0,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
+    },
+ {
       "name": "Moexin-含XXX源",
       "playerType": 1,
       "type": 0,
