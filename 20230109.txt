@@ -184,7 +184,19 @@ Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
+广东4k,http://113.64.145.186:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.195:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.205:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.200:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.228:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.244:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.251:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.84:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.95:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.108:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.131:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.141:8081/hls/145/index.m3u8
+广东4k,http://113.64.145.173:8081/hls/145/index.m3u8
 🇨🇳 港.澳.财经.美食,#genre#
 凤凰资讯,http://113.64.145.186:8081/hls/36/index.m3u8
 凤凰资讯,http://113.64.145.195:8081/hls/36/index.m3u8
@@ -193,12 +205,12 @@ Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 凤凰资讯,http://113.64.145.228:8081/hls/36/index.m3u8
 凤凰资讯,http://113.64.145.244:8081/hls/36/index.m3u8
 凤凰资讯,http://113.64.145.251:8081/hls/36/index.m3u8
-凤凰资讯,http://113.64.145.84:8081/hls/36/index.m3u8
-凤凰资讯,http://113.64.145.95:8081/hls/36/index.m3u8
+凤凰资讯,http://113.64.145.9:8081/hls/36/index.m3u8
+凤凰资讯,http://113.64.145.35:8081/hls/36/index.m3u8
 凤凰资讯,http://113.64.145.108:8081/hls/36/index.m3u8
 凤凰资讯,http://113.64.145.131:8081/hls/36/index.m3u8
 凤凰资讯,http://113.64.145.141:8081/hls/36/index.m3u8
-凤凰资讯,http://113.64.145.173:8081/hls/36/index.m3u8
+凤凰资讯,http://113.64.145.251:8081/hls/36/index.m3u8#http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://113.64.145.186:8081/hls/37/index.m3u8
 凤凰中文,http://113.64.145.195:8081/hls/37/index.m3u8
 凤凰中文,http://113.64.145.205:8081/hls/37/index.m3u8
@@ -206,12 +218,12 @@ Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 凤凰中文,http://113.64.145.228:8081/hls/37/index.m3u8
 凤凰中文,http://113.64.145.244:8081/hls/37/index.m3u8
 凤凰中文,http://113.64.145.251:8081/hls/37/index.m3u8
-凤凰中文,http://113.64.145.84:8081/hls/37/index.m3u8
-凤凰中文,http://113.64.145.95:8081/hls/37/index.m3u8
+凤凰中文,http://113.64.145.9:8081/hls/37/index.m3u8
+凤凰中文,http://113.64.145.35:8081/hls/37/index.m3u8
 凤凰中文,http://113.64.145.108:8081/hls/37/index.m3u8
 凤凰中文,http://113.64.145.131:8081/hls/37/index.m3u8
 凤凰中文,http://113.64.145.141:8081/hls/37/index.m3u8
-凤凰中文,http://113.64.145.173:8081/hls/37/index.m3u8
+凤凰中文,http://113.64.145.108:8081/hls/37/index.m3u8#http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://113.64.145.186:8081/hls/38/index.m3u8
 凤凰香港,http://113.64.145.195:8081/hls/38/index.m3u8
 凤凰香港,http://113.64.145.205:8081/hls/38/index.m3u8
@@ -219,12 +231,12 @@ Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
 凤凰香港,http://113.64.145.244:8081/hls/38/index.m3u8
 凤凰香港,http://113.64.145.251:8081/hls/38/index.m3u8
-凤凰香港,http://113.64.145.84:8081/hls/38/index.m3u8
-凤凰香港,http://113.64.145.95:8081/hls/38/index.m3u8
+凤凰香港,http://113.64.145.9:8081/hls/38/index.m3u8
+凤凰香港,http://113.64.145.35:8081/hls/38/index.m3u8
 凤凰香港,http://113.64.145.108:8081/hls/38/index.m3u8
 凤凰香港,http://113.64.145.131:8081/hls/38/index.m3u8
 凤凰香港,http://113.64.145.141:8081/hls/38/index.m3u8
-凤凰香港,http://113.64.145.173:8081/hls/38/index.m3u8
+凤凰香港,http://113.64.145.108:8081/hls/38/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://171.213.36.107:8888/udp/239.93.0.162:2192
 凤凰中文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -234,7 +246,7 @@ Love Nrture 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 凤凰中文,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
 凤凰中文,http://27.154.214.56:8888/rtp/239.61.2.184:9092
 凤凰香港,http://113.64.145.228:8081/hls/38/index.m3u8
-
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 东方财经,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 东方财经,http://[2409:8087:7001:20:1000::95]:6610/000000001000/2000000002000000090/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
 第一财经,http://[2409:8087:7001:20:1000::2]:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
