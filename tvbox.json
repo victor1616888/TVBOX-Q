@@ -30,7 +30,15 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "url": "https://d.kstore.space/download/3329/20230109.txt"
     },
-
+{
+      "name": " Q线路v4v6直播",
+      "playerType": 1,
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
   {
       "name": "MyGithub v4+V6",
       "playerType": 1,
@@ -39,17 +47,17 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/IPTV.txt"
     },
-
- {
-      "name": "无界2 v4+V6",
+  {
+      "name": "北京移动 v4",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://www.cwss.xyz/无界直播禁止贩卖"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Yuanwe/IPTV/main/test.m3u"
     },
+
     {
-      "name": "MeroserV6",
+      "name": "Meroser",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -57,7 +65,7 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u"
     },
     {
-      "name": "范明明陕西V6",
+      "name": "范明明",
       "playerType": 1,
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
@@ -66,7 +74,7 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
 {
-      "name": "PizazzGY潇洒V4V6",
+      "name": "PizazzGY潇洒",
       "playerType": 1,
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
@@ -76,7 +84,7 @@
     },
 
  {
-      "name": "yue365-FMM-V6",
+      "name": "yue365-FMM",
       "playerType": 1,
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u",
@@ -85,17 +93,9 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
 
- {
-      "name": "无界V6",
-      "playerType": 1,
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/main/IPTV/%E6%97%A0%E7%95%8C.IPTV",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
+ 
   {
-      "name": "YueChan陕西V6",
+      "name": "YueChan",
       "playerType": 1,
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
@@ -120,14 +120,7 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ll996075dd/tvbox/main/api/lib/live.txt"
     },
-    {
-      "name": "王健无界V6",
-      "playerType": 1,
-      "type": 0,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://www.xn--rgv465a.top/无界直播禁止贩卖"
-    },
+    
     {
       "name": "惊喜v4v6多线",
       "playerType": 1,
@@ -138,22 +131,14 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "fenxp陕西V6",
+      "name": "fenxp",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u"
     },
-    {
-      "name": " Q线路v4v6直播",
-      "playerType": 1,
-      "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
+    
     {
       "name": "mcpv4v6多路",
       "playerType": 1,
