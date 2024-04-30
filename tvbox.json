@@ -39,13 +39,21 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
-  {
-      "name": "MyGithub v4+V6",
+{
+      "name": "老友",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/IPTV.txt"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/20240428.txt"
+    },
+  {
+      "name": "湖南组播.凤凰",
+      "playerType": 1,
+      "type": 0,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt"
     },
   {
       "name": "北京移动 v4",
@@ -56,14 +64,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/Yuanwe/IPTV/main/test.m3u"
     },
 
-    {
-      "name": "Meroser",
-      "playerType": 1,
-      "type": 0,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u"
-    },
+    
     {
       "name": "范明明",
       "playerType": 1,
