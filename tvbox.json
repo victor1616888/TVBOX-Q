@@ -48,20 +48,20 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/20240428.txt"
     },
   {
-      "name": "湖南组播.凤凰",
+      "name": "酒店组播",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt"
     },
   {
-      "name": "北京移动 v4",
+      "name": "yuanz",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/Yuanwe/IPTV/main/test.m3u"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u"
     },
 
     
