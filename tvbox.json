@@ -45,7 +45,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/20240428.txt"
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/IPTV/master/20240503.txt"
     },
   {
       "name": "酒店组播",
