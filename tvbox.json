@@ -85,10 +85,10 @@
     },
 
  {
-      "name": "yue365-FMM",
+      "name": "酒店组播",
       "playerType": 1,
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yue365/IPTV/master/IPTV.m3u",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
