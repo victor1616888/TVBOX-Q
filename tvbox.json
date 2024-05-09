@@ -47,6 +47,14 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/victor1616888/IPTV/master/20240503.txt"
     },
+{
+      "name": "组播转单播",
+      "playerType": 1,
+      "type": 0,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u"
+    },
   {
       "name": "酒店组播",
       "playerType": 1,
