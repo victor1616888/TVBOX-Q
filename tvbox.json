@@ -1,9 +1,8 @@
 ﻿//收集自各大佬的公开资源，自用综合接口,含网盘资源，一条线路看全网。免费使用，请勿传播！如有侵权，请联系删除。请勿用于违法用途！
 //本接口建议使用蜂蜜、Catbox或影视仓APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用Panda大佬的jar包，如有需要可自行进行调整。
-//范明明v6直播：https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-//范明明V4直播：https://github.com/fanmingming/live/blob/main/tv/m3u/domainv6.m3u
+//范明明v6直播：https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 //王健直播：https://www.xn--rgv465a.top/box/live/live.txt
-//王健直播2：https://www.cwss.xyz/box/live/live.txt
+//酒店组播：https://mirror.ghproxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt
 //惊喜直播：https://github.com/Supprise0901/TVBox_live/blob/main/live.txt
 //PizazzGY直播：https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
 //Meroser直播:https://github.com/Meroser/IPTV/blob/main/IPTV.m3u
@@ -13,13 +12,14 @@
 //Moexin直播:https://mirror.ghproxy.com/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u
 //EPG:https://epg.erw.cc/api/diyp/?ch={name}&date={date}与http://epg.112114.xyz/?ch={name}&date={date}都可以
 //音范丝：https://mirror.ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json
+//github代理地址： https://github.moeyy.xyz https://mirror.ghproxy.com/ https://gh-proxy.com https://ghproxy.net 选择一个速度快使用
 {
   //"spider": "https://mirror.ghproxy.com/https://github.com/victor1616888/gao/blob/master/jar/XYQ.jar;md5;6120d08f4eb1edce507bfcd1b339c482",
 //"spider": "https://gitee.com/yobnn/tvbox/raw/master/tvbox/YSC.jar;md5;3f08f3d7e02cdf04894f1befeefd0d4b",
 //"spider": "https://mirror.ghproxy.com//https://github.com/victor1616888/gao/blob/master/jar/fan.txt;md5;ea09c2021f8e6b353b77a48b8a23bdf0",
- //"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5",
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724442919492/fan.txt;md5;13723d8f9bedc71ccc5452f4caec195a",
 
-"spider": "https://d.kstore.space/download/3329/pg.jar;md5;2e4e02fe19253412b3fb0b9af9d63f35",
+//"spider": "https://d.kstore.space/download/3329/pg.jar;md5;2e4e02fe19253412b3fb0b9af9d63f35",
   "warningText": "自用综合接口，完全免费使用，请勿传播！",
   "lives": [
     {
@@ -86,7 +86,7 @@
       "name": "PizazzGY潇洒",
       "playerType": 1,
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
@@ -114,22 +114,13 @@
     },
 
     {
-      "name": "陕西移动V6",
+      "name": "zengyzIPV6",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://github.com/sxttux/TVBox/blob/main/tvIPv6.txt"
-    },
-    {
-      "name": "江苏移动V6",
-      "playerType": 1,
-      "type": 0,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ll996075dd/tvbox/main/api/lib/live.txt"
-    },
-    
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zengyz1992/tvbox_ipv6/main/IPTV.m3u"
+    }, 
     {
       "name": "惊喜v4v6多线",
       "playerType": 1,
@@ -194,38 +185,6 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/week9/AUTO-IPTV/main/IPTV.m3u"
     },
-
-  {
-      "name": "番茄•综合",
-      "playerType": 1,
-      "type": 0,
-      "url": "http://fanqie.gq/a/1701859592.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "Ray•综合",
-      "playerType": 1,
-      "type": 0,
-      "url": "https://xhdwc.tk/tvlive.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "YuanHsing•油管",
-      "type": 0,
-      "url": "https://fongmi.cachefly.net/YuanHsing/YouTube_to_m3u/main/youtube.m3u"
-    },
-    {
-      "name": "YueChan•综合",
-      "type": 0,
-      "url": "https://fongmi.cachefly.net/YueChan/Live/main/IPTV.m3u",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
-    },
     {
       "name": "Yoursmile•综合",
       "type": 0,
@@ -271,7 +230,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg==",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707552573492/fan.txt;md5;4eec8bf0a642330662224a01636e0df6"
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724442919492/fan.txt;md5;13723d8f9bedc71ccc5452f4caec195a"
     },
 
     {
