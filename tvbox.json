@@ -30,6 +30,22 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "url": "https://d.kstore.space/download/3329/20230109.txt"
     },
+
+ { "name": "老友Git V4V6",
+      "playerType": 1,
+      "type": 0,
+      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/mytv.m3u"
+    },
+ { "name": "老友Github v6",
+      "playerType": 1,
+      "type": 0,
+      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv.m3u"
+    },
+
 {
       "name": "老友Q",
       "playerType": 1,
