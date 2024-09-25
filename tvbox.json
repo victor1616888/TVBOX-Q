@@ -43,7 +43,7 @@
       "type": 0,
       "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv.m3u"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv6.m3u"
     },
 
 {
