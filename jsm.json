@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan.txt;md5;3754afe8b20b0a18c982ee8dd026bc55",
+"spider":"./jar/fan.txt;md5;7cf2880549b9e4236a8dc0d6deb8bb90",
 "lives":[
 {"name":"fmm","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"live","type":0,"url":"https://epg.pw/test_channels.m3u","playerType":1,"ua":"okhttp/3.8.1","timeout":20,"epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"},
@@ -22,10 +22,11 @@
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czys.pro/"},
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
+{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
-{"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+{"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"zxzj","name":"🍊在线┃外剧","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"贱贱","name":"🐭贱贱┃P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./FTY/drpy2.min.js","ext":"./FTY/jp.js"},
