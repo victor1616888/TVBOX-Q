@@ -36,7 +36,7 @@
       "type": 0,
       "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/mytv.m3u"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv4v6.m3u"
     },
  { "name": "老友Github v6",
       "playerType": 1,
@@ -64,6 +64,15 @@
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
 
+{
+      "name": "范明明v4",
+      "playerType": 1,
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+    },
 {
       "name": "组播转单播",
       "playerType": 1,
