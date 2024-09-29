@@ -1,12 +1,15 @@
-如果不想折腾，可以直接食用。
+TVBox、OK影视、猫影视的配置文件，如果不想折腾，可以直接食用。（所有资源均来自于各路大神无私分享，如有侵权，请联系删除。）
 
 订阅多仓库：https://github.com/victor1616888/TVBOX-Q/blob/master/storeHouse.json  
+
 订阅单仓多源直播源：https://github.com/victor1616888/TVBOX-Q/blob/master/tvbox.json
+
 订阅单ipv6直播源：https://gh-proxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv6.m3u
+
 订阅ipv4和ipv6线路：https://gh-proxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv4v6.m3u
+
    （所有直播线路每天均扫描更新两次）
 
-OK影视、TVBox、猫影视配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
 
 所有以任何方式查看本仓库内容的人、或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。
 
