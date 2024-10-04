@@ -520,8 +520,10 @@ CCTV13,http://[2409:8087:5c00:10:5::132]/cdnrrs.gx.chinamobile.com/PLTV/3/224/32
 CCTV13,http://[2409:8087:5c00:10:5::133]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
 CCTV13,http://[2409:8087:5c00:10:5::166]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
 CCTV13,http://[2409:8087:5c00:10:5::167]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
-CCTV13,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1&#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
-CCTV13,http://[2409:8087:5c00:10:5::98]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
+CCTV13,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8#http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
+CCTV13,http://[2409:8087:5c00:10:5::98]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
 CCTV13,http://39.135.46.98:6610/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
@@ -685,7 +687,7 @@ CCTV2,http://[2409:8087:5c00:10:5::132]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322
 CCTV2,http://[2409:8087:5c00:10:5::133]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225948/index.m3u8?servicetype=1
 CCTV2,http://[2409:8087:5c00:10:5::166]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225948/index.m3u8?servicetype=1
 CCTV2,http://[2409:8087:5c00:10:5::167]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225948/index.m3u8?servicetype=1
-CCTV2,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1&#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8#http://180.140.129.188:4200/udp/239.81.0.115:4056
+CCTV2,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1&#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,http://39.135.46.98:6610/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1
 CCTV2,http://39.135.46.100:6610/PLTV/77777777/224/3221225948/index.m3u8?servicetype=1
