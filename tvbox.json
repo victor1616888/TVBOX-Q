@@ -18,7 +18,6 @@
 //"spider": "https://gitee.com/yobnn/tvbox/raw/master/tvbox/YSC.jar;md5;3f08f3d7e02cdf04894f1befeefd0d4b",
 //"spider": "https://mirror.ghproxy.com//https://github.com/victor1616888/gao/blob/master/jar/fan.txt;md5;ea09c2021f8e6b353b77a48b8a23bdf0",
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724442919492/fan.txt;md5;13723d8f9bedc71ccc5452f4caec195a",
-
 //"spider": "https://d.kstore.space/download/3329/pg.jar;md5;2e4e02fe19253412b3fb0b9af9d63f35",
   "warningText": "自用综合接口，完全免费使用，请勿传播！",
   "lives": [
@@ -26,33 +25,43 @@
       "name": "老友凯速直播",
       "playerType": 1,
       "type": 0,
-      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://d.kstore.space/download/3329/20230109.txt"
     },
 
  { "name": "老友Git V4V6",
       "playerType": 1,
       "type": 0,
-      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv4v6.m3u"
+      "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv4v6.txt"
     },
  { "name": "老友Github v6",
       "playerType": 1,
       "type": 0,
-      "epg": "https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv6.m3u"
+      "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv6.txt"
     },
 
 {
       "name": "老友Q",
       "playerType": 1,
       "type": 0,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/20230109.txt"
+    },
+
+{
+      "name": " skycn v6直播",
+      "playerType": 1,
+      "type": 0,
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt",
+      "playerType": 1,
+      "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
 {
       "name": " Q线路v4v6直播",
@@ -60,8 +69,8 @@
       "type": 0,
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt",
       "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
 
 {
@@ -71,14 +80,14 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
 {
       "name": "组播转单播",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u"
     },
   {
@@ -86,7 +95,7 @@
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt"
     },
   {
@@ -94,7 +103,7 @@
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u"
     },
 
@@ -106,7 +115,7 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
 {
       "name": "PizazzGY潇洒",
@@ -115,7 +124,7 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
 
  {
@@ -125,7 +134,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
 
  
@@ -136,7 +145,7 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
 
     {
@@ -144,7 +153,7 @@
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zengyz1992/tvbox_ipv6/main/IPTV.m3u"
     }, 
     {
@@ -154,14 +163,14 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "fenxp",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u"
     },
     
@@ -172,7 +181,7 @@
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mcp2016/TVBox/main/lives.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     
    
@@ -181,7 +190,7 @@
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaotong1995/iptv-scan/main/IPTV.txt"
     },
 
@@ -190,7 +199,7 @@
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
     },
  {
@@ -198,8 +207,8 @@
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u"
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u"
     },
 
 
@@ -208,8 +217,8 @@
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/week9/AUTO-IPTV/main/IPTV.m3u"
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/week9/AUTO-CNTV/main/IPTV.m3u"
     },
     {
       "name": "Yoursmile•综合",
@@ -217,7 +226,7 @@
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "饭太硬•综合",
@@ -226,7 +235,7 @@
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "肥猫•综合",
@@ -234,7 +243,7 @@
       "url": "http://我不是.肥猫.live/TV/tvzb.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
       "name": "俊于•综合",
@@ -242,7 +251,7 @@
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.eu.org/logo/{name}.png"
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
   ],
   "wallpaper": "https://bing.img.run/rand.php",
