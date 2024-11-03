@@ -55,6 +55,14 @@
       "url": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt"
     },
 {
+      "name": "Git-vbskycn-v6itv",
+      "playerType": 1,
+      "type": 0,
+      "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/ipv6-itv.txt"
+    },
+{
       "name": "老友Q",
       "playerType": 1,
       "type": 0,
