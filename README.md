@@ -172,6 +172,6 @@ V1.1.2版本以下
 
 尽自己所能更新，不保证配置的有效性和时效性。
 蜂蜜APK：https://github.com/FongMi/Release/tree/main/apk/release 。说明：蜂蜜影视支持多仓库多线路点播以及多线路直播源。电视机、盒子等建议下载PY版本以便支持更多播放源。手机请下载64位的PY版本。
-直播源搜索 https://foodieguide.com/iptvsearch/
-
+直播源搜索：1、 https://foodieguide.com/iptvsearch  
+2、http://tonkiang.us/
 如果平时打不开github,建议用加速器。搜FastGithub，各个版本下载地址：https://github.com/2289182718/FastGithub/tree/main 
