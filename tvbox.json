@@ -24,12 +24,12 @@
   "warningText": "自用综合接口，完全免费使用，请勿传播！",
   "lives": [
     {
-      "name": "老友凯速直播",
+      "name": "老友Q直播",
       "playerType": 1,
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://d.kstore.space/download/3329/20230109.txt"
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/20230109.txt"
     },
 
  { "name": "老友Git V4V6",
@@ -62,6 +62,15 @@
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/ipv6-itv.txt"
+    },
+
+{
+      "name": "Git-wwb521-V6",
+      "playerType": 1,
+      "type": 0,
+      "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/ipv6.txt"
     },
 {
       "name": "老友Q",
