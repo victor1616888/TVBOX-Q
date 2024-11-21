@@ -143,7 +143,7 @@
       "name": "PizazzGY潇洒",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
