@@ -1,24 +1,25 @@
 ﻿//收集自各大佬的公开资源，自用综合接口,含网盘资源，一条线路看全网。免费使用，请勿传播！如有侵权，请联系删除。请勿用于违法用途！
 //本接口建议使用蜂蜜、Catbox或影视仓APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用Panda大佬的jar包，如有需要可自行进行调整。
+//两个加速网站：1：https://gh-proxy.com/    2：https://ghp.ci/
 //范明明v6直播：https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 //vbskycn直播：https://github.com/vbskycn/iptv/blob/master/tv/iptv6.txt
 //新vbskycn：https://github.com/qq254950134/my-iptv/blob/main/final_streams.txt;https://github.com/vbskycn/iptv/blob/master/tv/iptv4.txt
-//酒店组播：https://mirror.ghproxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt
+//酒店组播：https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt
 //惊喜直播：https://github.com/Supprise0901/TVBox_live/blob/main/live.txt
 //kimwang1978:https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-//PizazzGY直播：https://mirror.ghproxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
+//PizazzGY直播：https://ghp.ci/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
 //Meroser直播:https://github.com/Meroser/IPTV/blob/main/IPTV.m3u
-//老友直播：https://mirror.ghproxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt
+//老友直播：https://ghp.ci/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt
 //Q线v4v6直播：https://github.com/victor1616888/TVBOX-Q/blob/master/tvlive.txt
 //huanyue v6直播：https://github.com/xhuanyue/IPTV6/blob/main/ipv6.m3u
-//Moexin直播:https://mirror.ghproxy.com/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u
+//Moexin直播:https://ghp.ci/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u
 //EPG:https://epg.erw.cc/api/diyp/?ch={name}&date={date}与http://epg.112114.xyz/?ch={name}&date={date}都可以
-//音范丝：https://mirror.ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json
-//github代理地址： https://github.moeyy.xyz https://mirror.ghproxy.com/ https://gh-proxy.com https://ghproxy.net 选择一个速度快使用
+//音范丝：https://ghp.ci/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json
+//github代理地址： https://github.moeyy.xyz https://ghp.ci/ https://gh-proxy.com https://gh-proxy.com 选择一个速度快使用
 {
-  //"spider": "https://mirror.ghproxy.com/https://github.com/victor1616888/gao/blob/master/jar/XYQ.jar;md5;6120d08f4eb1edce507bfcd1b339c482",
+  //"spider": "https://ghp.ci/https://github.com/victor1616888/gao/blob/master/jar/XYQ.jar;md5;6120d08f4eb1edce507bfcd1b339c482",
 //"spider": "https://gitee.com/yobnn/tvbox/raw/master/tvbox/YSC.jar;md5;3f08f3d7e02cdf04894f1befeefd0d4b",
-//"spider": "https://mirror.ghproxy.com//https://github.com/victor1616888/gao/blob/master/jar/fan.txt;md5;ea09c2021f8e6b353b77a48b8a23bdf0",
+//"spider": "https://ghp.ci//https://github.com/victor1616888/gao/blob/master/jar/fan.txt;md5;ea09c2021f8e6b353b77a48b8a23bdf0",
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724442919492/fan.txt;md5;13723d8f9bedc71ccc5452f4caec195a",
 //"spider": "https://d.kstore.space/download/3329/pg.jar;md5;2e4e02fe19253412b3fb0b9af9d63f35",
   "warningText": "自用接口，完全免费使用，请勿传播！",
@@ -75,13 +76,13 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/20230109.txt"
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/20230109.txt"
     },
  {
       "name": "范明明v6",
       "playerType": 1,
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -99,7 +100,7 @@
       "name": " Q线路v4v6直播",
       "playerType": 1,
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt",
       "playerType": 1,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -120,7 +121,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u"
     },
   {
       "name": "酒店组播",
@@ -128,7 +129,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt"
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt"
     },
   {
       "name": "yuanz",
@@ -136,7 +137,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u"
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u"
     },
 {
       "name": "PizazzGY潇洒",
@@ -151,7 +152,7 @@
       "name": "酒店组播",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/balala2oo8/iptv/main/o.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -160,7 +161,7 @@
       "name": "YueChan",
       "playerType": 1,
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -178,7 +179,7 @@
       "name": "惊喜v4v6多线",
       "playerType": 1,
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -189,14 +190,14 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u"
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u"
     },
     
     {
       "name": "mcpv4v6多路",
       "playerType": 1,
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mcp2016/TVBox/main/lives.txt",
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/mcp2016/TVBox/main/lives.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -207,7 +208,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaotong1995/iptv-scan/main/IPTV.txt"
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/xiaotong1995/iptv-scan/main/IPTV.txt"
     },
 
     {
@@ -216,10 +217,10 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
+      "url": "https://ghp.ci/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
     },
  {
-      "name": "Moexin-含XXX源",
+      "name": "Moexin-18+源",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -227,7 +228,7 @@
       "url": "https://ghp.ci/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u"
     },
 {
-      "name": "week9-含XXX源",
+      "name": "week9-18+源",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -591,7 +592,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/XYQHiker/云盘资源分享.json"
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/XYQHiker/云盘资源分享.json"
     },
     {
       "key": "csp_XYQHikerAL_阿里云盘网",
@@ -601,7 +602,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/XYQHiker/阿里云盘网.json"
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/XYQHiker/阿里云盘网.json"
     },
  {
       "key": "七夜",
