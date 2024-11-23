@@ -1,3 +1,10 @@
+globalThis.getHeaders= function(input){
+    let t = Math.round(new Date().getTime()/1000).toString();
+	let headers = {
+        'User-Agent': 'okhttp/4.1.0'
+	};
+	return headers
+}
 var rule = {
     title:'腾云驾雾',
     host:'https://v.%71%71.com',
@@ -25,8 +32,26 @@ var rule = {
     limit:20,
     // play_parse:true,
     // 手动调用解析请求json的url,此lazy不方便
-    lazy:'',
-    // lazy:'js:input="https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
+    //lazy:'js:input="https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
+    play_parse:true,
+	lazy:`js:
+        try {
+            function getvideo(url) {
+                let jData = JSON.parse(request(url, {
+                    headers: getHeaders(url)
+                }));
+                return jData.url
+            }
+			let videoUrl = getvideo('http://139.224.73.238:16555/qq2.php?url=' + input);
+			input = {
+                jx: 0,
+                url: videoUrl,
+                parse: 0
+            }
+        } catch (e) {
+            log(e.toString())
+        }
+	`,
     推荐:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     一级:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     // 二级:{is_json:1,"title":"data.title;data.moviecategory[0]+data.moviecategory[1]","img":"data.cdncover","desc":"data.area[0];data.director[0]","content":"data.description","tabs":"data.playlink_sites;data.playlinksdetail.#idv.quality","lists":"data.playlinksdetail.#idv.default_url"},
