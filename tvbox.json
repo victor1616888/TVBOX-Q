@@ -107,10 +107,10 @@
     },
 
 {
-      "name": "范明明v4",
+      "name": "Burningv4",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/itv.m3u",
+      "url": "https://gh-proxy.com/github.com/BurningC4/Chinese-IPTV/blob/master/TV-IPV4.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
