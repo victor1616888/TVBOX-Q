@@ -9,7 +9,7 @@
         "cateManual": {
                 "首页推荐": "page",
             "蓝光原盘电影": "topic/bluray-movie/movie/page",
-           "蓝光原盘演唱会": "topic/bluray-movie/movie/song",
+           "蓝光原盘演唱会": "topic/bluray-movie/movie/song/page",
              "蓝光原盘纪录片": "topic/bluray-movie/documentry/page",
                 "4K": "topic/4k/page"
         },
