@@ -259,7 +259,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://u.kstore.space/download/3329/XYQHiker/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
+      "ext": "https://gh-proxy.com/github.com/victor1616888/TVBOX-Q/blob/master/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
     },
     {
       "key": "alist",
@@ -267,7 +267,7 @@
       "type": 3,
       "playerType": "1",
       "api": "csp_AList",
-      "jar": "https://d.kstore.space/download/3329/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
+      "jar": "https://gh-proxy.com/github.com/victor1616888/TVBOX-Q/blob/master/jar/pg.jar;md5;2f9742e4675945a58354b00450c401ad",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -551,7 +551,7 @@
 {"key": "dr_北川","name":"🍨┃北川┃🦁","type":3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/北川影视.js"},
 {"key": "dr_4K视界","name":"🐡┃4K视界┃🦁","type":3,"api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/4K视界[V2].jsd"},
   
-   
+   {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
     {"key":"玩偶表哥","name":"┃表哥┃阿里4k","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":2, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json","timeout":60},
     {"key":"影视仓","name":"┃影视┃阿里4k","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":0, "jar":"https://jihulab.com/0004/c/-/raw/main/PG.txt","ext":"https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$https://www.weixine.net$$$1$$$./json/wogg.json","timeout":60},
 
@@ -677,7 +677,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹",  
-     "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705832521307/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5"
+     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724442919492/fan.txt;md5;c309b0f793045f88f75aa088cd0cc7b5"
     },
    
     {
