@@ -4,20 +4,20 @@
 //范明明v6直播：https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 //vbskycn直播：https://github.com/vbskycn/iptv/blob/master/tv/iptv6.txt
 //新vbskycn：https://github.com/qq254950134/my-iptv/blob/main/final_streams.txt;https://github.com/vbskycn/iptv/blob/master/tv/iptv4.txt
-//酒店组播：https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt
+//酒店组播：https://gh-proxy.com/raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt
 //惊喜直播：https://github.com/Supprise0901/TVBox_live/blob/main/live.txt
-//kimwang1978:https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-//PizazzGY直播：https://ghp.ci/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
+//kimwang1978:https://gh-proxy.com/raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+//PizazzGY直播：https://gh-proxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
 //Meroser直播:https://github.com/Meroser/IPTV/blob/main/IPTV.m3u
-//老友直播：https://ghp.ci/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt
+//老友直播：https://gh-proxy.com/github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt
 //Q线v4v6直播：https://github.com/victor1616888/TVBOX-Q/blob/master/tvlive.txt
 //huanyue v6直播：https://github.com/xhuanyue/IPTV6/blob/main/ipv6.m3u
-//Moexin直播:https://ghp.ci/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u
+//Moexin直播:https://gh-proxy.com/raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u
 //EPG:https://epg.erw.cc/api/diyp/?ch={name}&date={date}与http://epg.112114.xyz/?ch={name}&date={date}都可以
-//音范丝：https://ghp.ci/https://raw.githubusercontent.com/chengxueli818913/TV/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json
+//音范丝：https://gh-proxy.com/raw.githubusercontent.com/chengxueli818913/TV/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json
 //github代理地址： https://github.moeyy.xyz https://ghp.ci/ https://gh-proxy.com https://gh-proxy.com 选择一个速度快使用
 {
-  //"spider": "https://ghp.ci/https://github.com/victor1616888/gao/blob/master/jar/XYQ.jar;md5;6120d08f4eb1edce507bfcd1b339c482",
+  //"spider": "https://gh-proxy.com/github.com/victor1616888/gao/blob/master/jar/XYQ.jar;md5;6120d08f4eb1edce507bfcd1b339c482",
 //"spider": "https://gh-proxy.com/github.com/victor1616888/TVBOX-Q/blob/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
 //"spider": "https://ghp.ci//https://github.com/victor1616888/gao/blob/master/jar/fan.txt;md5;ea09c2021f8e6b353b77a48b8a23bdf0",
   "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724442919492/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
@@ -30,21 +30,21 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/20230109.txt"
+      "url": "https://gh-proxy.com/github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt"
     },
  { "name": "老友Git V4V6",
       "playerType": 1,
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv4v6.txt"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv4v6.txt"
     },
  { "name": "老友Github v6",
       "playerType": 1,
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv6.txt"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv6.txt"
     },
 {
       "name": "Git-vbskycn-v6",
@@ -52,7 +52,7 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt"
     },
 {
       "name": "Git-vbskycn-v6itv",
@@ -60,7 +60,7 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/ipv6-itv.txt"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/master/tv/ipv6-itv.txt"
     },
 {
       "name": "Git-wwb521-V6",
@@ -68,7 +68,7 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/ipv6.txt"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/wwb521/live/main/ipv6.txt"
     },
 {
       "name": "老友Q",
@@ -76,13 +76,13 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/20230109.txt"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/victor1616888/TVBOX-Q/master/20230109.txt"
     },
  {
       "name": "范明明v6",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -91,7 +91,7 @@
       "name": " kimwang直播",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt",
       "playerType": 1,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -100,7 +100,7 @@
       "name": " Q线路v4v6直播",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt",
       "playerType": 1,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -129,7 +129,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/MemoryCollection/IPTV/main/itvlist.txt"
     },
   {
       "name": "yuanz",
@@ -137,7 +137,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u"
     },
 {
       "name": "PizazzGY潇洒",
@@ -161,7 +161,7 @@
       "name": "YueChan",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -173,13 +173,13 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/zengyz1992/tvbox_ipv6/main/IPTV.m3u"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/zengyz1992/tvbox_ipv6/main/IPTV.m3u"
     }, 
     {
       "name": "惊喜v4v6多线",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -190,14 +190,14 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/fenxp/iptv/main/live/ipv6.m3u"
     },
     
     {
       "name": "mcpv4v6多路",
       "playerType": 1,
       "type": 0,
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/mcp2016/TVBox/main/lives.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/mcp2016/TVBox/main/lives.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -208,7 +208,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/xiaotong1995/iptv-scan/main/IPTV.txt"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/xiaotong1995/iptv-scan/main/IPTV.txt"
     },
 
     {
@@ -217,7 +217,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8"
     },
  {
       "name": "Moexin-18+源",
@@ -225,7 +225,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/Moexin/IPTV/Files/IPTV.m3u"
     },
 {
       "name": "week9-18+源",
@@ -233,7 +233,7 @@
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/week9/AUTO-CNTV/main/IPTV.m3u"
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/week9/AUTO-CNTV/main/IPTV.m3u"
     }
   
   ],
@@ -615,7 +615,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/XYQHiker/云盘资源分享.json"
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/victor1616888/TVBOX-Q/master/XYQHiker/云盘资源分享.json"
     },
     {
       "key": "csp_XYQHikerAL_阿里云盘网",
@@ -625,7 +625,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/victor1616888/TVBOX-Q/master/XYQHiker/阿里云盘网.json"
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/victor1616888/TVBOX-Q/master/XYQHiker/阿里云盘网.json"
     },
  {
       "key": "七夜",
