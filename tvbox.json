@@ -105,7 +105,7 @@
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-
+{"name":"16万•MV","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"},
 {
       "name": "Burningv4",
       "playerType": 1,
