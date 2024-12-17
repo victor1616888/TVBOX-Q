@@ -139,7 +139,10 @@
 凤凰卫视资讯台,http://39.135.33.239/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8
 凤凰卫视资讯台,http://39.135.33.240/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8
 凤凰卫视资讯台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
-凤凰卫视中文台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1#http://39.135.46.246:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1#http://39.135.47.88/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8#http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
+凤凰卫视中文台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
+凤凰卫视中文台,http://39.135.46.246:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
+凤凰卫视中文台,http://39.135.47.88/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
+凤凰卫视中文台,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
 凤凰卫视中文台,http://39.135.46.98:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
 凤凰卫视中文台,http://39.135.46.100:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
 凤凰卫视中文台,http://39.135.46.101:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
@@ -239,7 +242,12 @@
 凤凰卫视中文台,http://39.135.33.67/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
 凤凰卫视中文台,http://39.135.33.68/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
 凤凰卫视中文台,http://39.135.33.69/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
-凤凰卫视中文台,http://39.135.33.70/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8#http://39.135.33.167/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8#http://39.135.33.168/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8#http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8#http://39.135.33.239/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8#http://39.135.33.240/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
+凤凰卫视中文台,http://39.135.33.70/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
+凤凰卫视中文台,http://39.135.33.167/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
+凤凰卫视中文台,http://39.135.33.168/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
+凤凰卫视中文台,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
+凤凰卫视中文台,http://39.135.33.239/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
+凤凰卫视中文台,http://39.135.33.240/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
 凤凰卫视中文台,http://[2409:8087:5c00:10:5::135]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8?servicetype=1
 凤凰卫视中文台,http://[2409:8087:5c00:10:5::167]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8?servicetype=1
 凤凰卫视中文台,http://[2409:8087:5c00:10:5::133]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8?servicetype=1
