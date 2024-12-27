@@ -1,6 +1,6 @@
 ﻿//收集自各大佬的公开资源，自用综合接口,含网盘资源，一条线路看全网。免费使用，请勿传播！如有侵权，请联系删除。请勿用于违法用途！
 //本接口建议使用蜂蜜、Catbox或影视仓APK，其他的APK不一定能够兼容。多jar多线路完美接口，默认使用Panda大佬的jar包，如有需要可自行进行调整。
-//两个加速网站：1：https://gh-proxy.com/    2：https://cf.ghproxy.cc/
+//两个加速网站：1：https://gh-proxy.com/    2：https://cf.ghproxy.cc/（https://ghproxy.cn/）
 //范明明v6直播：https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
 //vbskycn直播：https://github.com/vbskycn/iptv/blob/master/tv/iptv6.txt
 //新vbskycn：https://github.com/qq254950134/my-iptv/blob/main/final_streams.txt;https://github.com/vbskycn/iptv/blob/master/tv/iptv4.txt
@@ -281,8 +281,8 @@
          {
             "name": "雨呢盘",
             "server": "https://pan.clun.top/dav",
-            "user": "clun",
-            "pass": "clun"
+            "user": "guest",
+            "pass": "guest"
           },
  {
             "name": "雨呢盘",
