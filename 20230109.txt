@@ -1,5 +1,7 @@
 🇨🇳常看频道,#genre#
 凤凰卫视资讯台,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8?servicetype=1
+凤凰卫视资讯台,http://223.105.252.59/PLTV/3/224/3221228524/index.m3u8?servicetype=1
+凤凰卫视资讯台,http://223.105.252.60/PLTV/3/224/3221228524/index.m3u8?servicetype=1
 凤凰卫视资讯台,http://[2409:8087:5c00:10:5::120]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8?servicetype=1
 凤凰卫视资讯台,http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8?servicetype=1
 凤凰卫视资讯台,http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8?servicetype=1
@@ -140,6 +142,8 @@
 凤凰卫视资讯台,http://39.135.33.240/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8
 凤凰卫视资讯台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
 凤凰卫视中文台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
+凤凰卫视中文台,http://223.105.252.59/PLTV/3/224/3221228527/index.m3u8?servicetype=1
+凤凰卫视中文台,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8?servicetype=1
 凤凰卫视中文台,http://39.135.46.246:6610/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1
 凤凰卫视中文台,http://39.135.47.88/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
 凤凰卫视中文台,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
@@ -259,6 +263,8 @@
 凤凰卫视中文台,http://[2409:8087:5c00:10:5::98]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8?servicetype=1
 凤凰卫视中文台,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8?servicetype=1
 凤凰卫视香港台,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226321/index.m3u8?servicetype=1
+凤凰卫视香港台,http://223.105.252.59/PLTV/3/224/3221228530/index.m3u8?servicetype=1
+凤凰卫视香港台,http://223.105.252.60/PLTV/3/224/3221228530/index.m3u8?servicetype=1
 凤凰卫视香港台,http://[2409:8087:5c00:10:5::98]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视香港台,http://[2409:8087:5c00:10:5::97]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视香港台,http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226321/index.m3u8?servicetype=1
