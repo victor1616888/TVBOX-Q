@@ -405,6 +405,7 @@
 凤凰卫视中文台,http://146.56.153.245:20121/bysid/258
 凤凰卫视资讯台,http://146.56.153.245:20121/bysid/257
 CCTV13,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
+CCTV13,http://223.105.252.57/PLTV/3/224/3221228224/index.m3u8?servicetype=1
 CCTV13,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
 CCTV13,http://[2409:8087:5c00:10:5::120]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
 CCTV13,http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
