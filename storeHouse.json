@@ -17,8 +17,15 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/%E4%BA%91%E7%9B%98/api.json",
       "name": "🦁一木云盘线路"
     },
-
- {
+{
+      "url": "https://gh-proxy.com/github.com/victor1616888/TVBOX-Q/blob/master/0821.json",
+      "name": "🙀821饭太硬+QIST"
+    },
+  {
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/js.json",
+      "name": "🐈JS-QIST线路"
+    },  
+{
       "url": "https://gh-proxy.com/raw.githubusercontent.com/victor1616888/TVBOX-Q/master/jsm.json",
       "name": "🙀Q -JSM"
     },
@@ -31,10 +38,7 @@
       "name": "🐈Panda G-QIST线路"
     },
 
-{
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/0821.json",
-      "name": "🙀821饭太硬+QIST蜂蜜版专用"
-    },
+
     {
       "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/0822.json",
       "name": "🙀822OK俊于QIST"
@@ -48,10 +52,7 @@
       "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/0827.json",
       "name": "🙀827蜂蜜QIST"
     },
-    {
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/js.json",
-      "name": "🐈JS-QIST线路"
-    },  
+   
 
  {
       "url": "https://gh-proxy.com/raw.githubusercontent.com/hl128k/tvbox/main/tv/0/anaer_meow.json",
