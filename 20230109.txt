@@ -667,6 +667,7 @@ CCTV5(4K),http://223.105.252.55/PLTV/4/224/3221228502/index.m3u8?servicetype=1
 CCTV8K(4K),http://223.105.252.58/PLTV/3/224/3221228165/index.m3u8?servicetype=1
 CCTV8K(4K),http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
 CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1#http://223.105.252.59/PLTV/4/224/3221228472/index.m3u8?servicetype=1
+CCTV16(4K),http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1#http://223.105.252.57/PLTV/3/224/3221228168/index.m3u8?servicetype=1#http://223.105.252.58/PLTV/3/224/3221228168/index.m3u8?servicetype=1
 CCTV16(4K),http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16(4K),http://39.134.136.134:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16(4K),http://39.134.136.135:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
@@ -697,7 +698,6 @@ CCTV16(4K),http://39.134.136.158:6610/000000001000/5000000008000023254/index.m3u
 CCTV16(4K),http://39.134.136.159:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16(4K),http://39.134.136.160:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16(4K),http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
-CCTV16(4K),http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1#http://223.105.252.57/PLTV/3/224/3221228168/index.m3u8?servicetype=1#http://223.105.252.58/PLTV/3/224/3221228168/index.m3u8?servicetype=1
 CCTV4,http://223.105.252.62/PLTV/4/224/3221227489/index.m3u8?servicetype=1
 CCTV4,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8?servicetype=1
 CCTV4,http://[2409:8087:5c00:10:5::98]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8?servicetype=1
