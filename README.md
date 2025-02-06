@@ -165,10 +165,10 @@ V1.1.2版本以下
 自用仓库，如果喜欢，请Fork自用，谢谢！
 
 尽自己所能更新，不保证配置的有效性和时效性。
-蜂蜜APK：
-https://github.com/FongMi/Release/tree/main/apk/release 。
+OK影视APK：
+https://github.com/FongMi/Release/tree/okjack/apk/release 。
 
-(说明：蜂蜜影视支持多仓库多线路点播以及多线路直播源。电视机、盒子等建议下载PY版本以便支持更多播放源。手机请下载64位的PY版本。) 
+(说明：OK影视支持多仓库多线路点播以及多线路直播源。电视机、盒子等建议下载PY版本以便支持更多播放源。手机请下载64位的PY版本。) 
 
 直播源搜索：
 1、 https://foodieguide.com/iptvsearch
