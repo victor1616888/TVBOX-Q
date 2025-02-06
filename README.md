@@ -1,4 +1,9 @@
-OK影视、TVBox、猫影视配置文件。所有资源均来自于各路大神无私分享，如有侵权，请联系删除。
+TVBox、OK影视、猫影视的配置文件，如果不想折腾，可以直接食用。（所有资源均来自于各路大神无私分享，如有侵权，请联系删除。）
+订阅多仓库：https://github.com/victor1616888/TVBOX-Q/blob/master/storeHouse.json
+订阅单仓多源直播源：https://github.com/victor1616888/TVBOX-Q/blob/master/tvbox.json
+订阅单ipv6直播源：https://gh-proxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv6.m3u
+订阅ipv4和ipv6线路：https://gh-proxy.com/https://raw.githubusercontent.com/victor1616888/IPTV/master/output/iptv4v6.m3u
+（直播线路每天均扫描更新两次）
 
 所有以任何方式查看本仓库内容的人、或直接或间接使用本仓库内容的使用者都应仔细阅读此声明。本仓库管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、修改了本仓库内容，则视为您已接受此免责声明。
 
@@ -160,3 +165,8 @@ V1.1.2版本以下
 自用仓库，如果喜欢，请Fork自用，谢谢！
 
 尽自己所能更新，不保证配置的有效性和时效性。
+蜂蜜APK：https://github.com/FongMi/Release/tree/main/apk/release 。说明：蜂蜜影视支持多仓库多线路点播以及多线路直播源。电视机、盒子等建议下载PY版本以便支持更多播放源。手机请下载64位的PY版本。 
+直播源搜索：
+1、 https://foodieguide.com/iptvsearch
+2、http://tonkiang.us/ 
+如果平时打不开github,建议用加速器。搜FastGithub，各个版本下载地址：https://github.com/2289182718/FastGithub/tree/main
