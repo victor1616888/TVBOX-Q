@@ -3,6 +3,8 @@
 //建议使用蜂蜜、Catbox或影视仓新版APK，其他的APK不一定能够兼容。多jar多线路完美接口，老友线路默认使用panda大佬的jar包，如有需要可自行进行调整。
 //加速代理网站：1：https://github.moeyy.xyz:  2：https://mirror.ghproxy.com/  3：https://gh-proxy.com https://ghproxy.net 
 //优质仓库：https://gh-proxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/%E4%BC%98%E8%B4%A8.json
+//优质yan55仓库：https://github.com/yan55/tvbox_01/blob/main/%E4%BC%98%E8%B4%A8.json
+//优质yan55大人仓库：https://github.com/yan55/tvbox_01/blob/main/sex_%E4%BC%98%E8%B4%A8.json
 //网友大仓库：https://gh-proxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json
 //6666仓库：https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan
 //chixin仓库：https://gh-proxy.com/https://raw.githubusercontent.com/ChiXin696/TVbox/main/ChiXin.json
@@ -12,6 +14,10 @@
     {
       "url": "https://gh-proxy.com/raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvbox.json",
       "name": "🌏邕城老友Q线"
+    },
+{
+      "url": "https://gh-proxy.com/github.com/victor1616888/TVBOX-Q/blob/master/PG/jsm.json",
+      "name": "🌏Q-PG线"
     },
 {
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/%E4%BA%91%E7%9B%98/api.json",
