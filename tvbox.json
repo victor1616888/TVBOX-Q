@@ -44,7 +44,7 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://github.moeyy.xyz/https://github.com/victor1616888/IPTV/master/output/iptv6.txt"
+      "url": "https://github.moeyy.xyz/https://github.com/victor1616888/TVBOX-Q/blob/master/PG/lives/%E5%8D%97%E5%AE%81%E8%87%AA%E7%94%A8.txt"
     },
 {
       "name": "Git-vbskycn-v6",
@@ -261,7 +261,7 @@
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/github.com/victor1616888/TVBOX-Q/blob/master/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
     },
-{"key":"FourKFM","name":"4K影库|网盘|磁力","type":3,"api":"csp_FourKFM","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$./lib/4kfm.txt$$$4KFM","jar": "https://github.moeyy.xyz/https://github.com/victor1616888/TVBOX-Q/blob/master/PG/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"},
+{"key":"FourKFM","name":"4K影库|网盘|磁力","type":3,"api":"csp_FourKFM","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://github.moeyy.xyz/https://github.com/victor1616888/TVBOX-Q/blob/master/PG/lib/tokenm.json$$$http://4kfm.com/$$$noproxy$$$1$$$./lib/4kfm.txt$$$4KFM","jar": "https://github.moeyy.xyz/https://github.com/victor1616888/TVBOX-Q/blob/master/PG/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"},
  {"key":"Yinfans","name":"音范丝|磁力","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1","jar": "https://github.moeyy.xyz/https://github.com/victor1616888/TVBOX-Q/blob/master/PG/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"},  
 
 
