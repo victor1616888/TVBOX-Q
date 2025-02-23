@@ -1232,7 +1232,7 @@ CCTV16,http://[2409:8087:5c00:10:5::167]/cdnrrs.gx.chinamobile.com/PLTV/3/224/32
 华数4k,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 华数4k,http://[2409:8087:5e00:24::29]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281
 华数4k,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
-北京IPTV4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+北京IPTV4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND#http://[2409:8087:1:20:20::27]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 4KUHD,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8?servicetype=1
 4KUHD,http://[2409:8087:5e20:24::d]:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 4KUHD,http://223.105.252.57/PLTV/3/224/3221228242/index.m3u8?servicetype=1#http://223.105.252.58/PLTV/3/224/3221228242/index.m3u8?servicetype=1
