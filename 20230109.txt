@@ -396,7 +396,6 @@
 凤凰卫视香港台,http://39.135.46.246:6610/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视香港台,http://39.135.47.88/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226321/index.m3u8
 凤凰卫视香港台,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226321/index.m3u8
-翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT
 翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 CCTV13,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
 CCTV13,http://[2409:8087:5c00:10:5::120]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
