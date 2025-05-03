@@ -303,7 +303,7 @@
 凤凰卫视香港台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视香港台,http://39.135.46.246:6610/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视香港台,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226321/index.m3u8
-北京卫视4Khttp://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
+北京卫视4K,http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
 北京IPTV4K,http://[2409:8087:8:21::6]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::7]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::8]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
