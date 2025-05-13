@@ -1,4 +1,4 @@
-????常看频道,#genre#
+常看频道,#genre#
 凤凰卫视资讯台,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8?servicetype=1
 凤凰卫视资讯台,http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8?servicetype=1
 凤凰卫视资讯台,http://39.135.46.98:6610/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
@@ -303,7 +303,40 @@
 凤凰卫视香港台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视香港台,http://39.135.46.246:6610/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视香港台,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226321/index.m3u8
-北京卫视4Khttp://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
+北京卫视4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?servicetype=1
+北京卫视4K,http://39.135.46.246:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.226:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.229:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.228:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.227:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.230:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.232:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.233:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.238:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.237:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.240:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.246:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.245:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.244:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.248:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.249:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.46.247:6610/PLTV/77777777/224/3221226333/index.m3u8?
+北京卫视4K,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.58/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.59/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.60/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.61/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.62/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.63/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.57/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.64/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.65/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.66/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.69/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.70/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.167/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.168/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
+北京卫视4K,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226333/index.m3u8
 北京IPTV4K,http://[2409:8087:8:21::6]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::7]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::8]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
@@ -340,6 +373,13 @@
 至臻视界4K,http://[2409:8087:8:21::3]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
 至臻视界4K,http://[2409:8087:8:21::4]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
 至臻视界4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
+4KUHD,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8?servicetype=1
+4KUHD,http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8?servicetype=1
+4KUHD,http://111.12.101.22:6610/PLTV/77777777/224/3221225726/index.m3u8?
+4KUHD,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1
+4KUHD,http://39.135.46.233:6610/PLTV/77777777/224/3221225726/index.m3u8?
+4KUHD,http://39.135.33.12/PLTV/77777777/224/3221226802/index.m3u8
+4KUHD,http://39.135.47.88/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
 翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 翡翠台4K,https://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台4K,http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
@@ -992,6 +1032,24 @@ CCTV6,http://39.135.46.248:6610/PLTV/77777777/224/3221225715/index.m3u8?
 CCTV6,http://39.135.46.249:6610/PLTV/77777777/224/3221225715/index.m3u8?
 CCTV16,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225956/index.m3u8?servicetype=1
 CCTV16,http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225956/index.m3u8?servicetype=1
+淘电影,http://[2409:8087:8:21::6]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::7]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::8]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::9]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::12]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::13]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::14]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::15]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::20]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::17]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::2]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::3]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::4]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
+淘电影,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?
 华数4k,http://35.212.155.167:5000/TVOD/6000000003000004748/wasusyt/index.m3u8
 华数4k,http://35.212.155.167:5000/TVOD/2000000004000000014/hnbblive/index.m3u8
 华数4k,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014#http://39.134.136.134:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
@@ -1237,7 +1295,7 @@ CHC影迷电影,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/8888
 CHC影迷电影,http://[2409:8087:7008:20::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC影迷电影,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 
-???? 4K & 8K频道,#genre#
+ 4K & 8K频道,#genre#
 华数4k,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014#http://39.134.136.134:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
 华数4k,http://39.134.136.135:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
 华数4k,http://39.134.136.133:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
@@ -1358,7 +1416,7 @@ CCTV16,http://[2409:8087:5c00:10:5::133]/cdnrrs.gx.chinamobile.com/PLTV/3/224/32
 CCTV16,http://[2409:8087:5c00:10:5::166]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225956/index.m3u8?servicetype=1
 CCTV16,http://[2409:8087:5c00:10:5::167]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225956/index.m3u8?servicetype=1
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-???? 港.澳.财经.美食,#genre#
+ 港.澳.财经.美食,#genre#
 凤凰卫视资讯台,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8?servicetype=1
 凤凰卫视资讯台,http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8?servicetype=1
 凤凰卫视资讯台,http://39.135.46.98:6610/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
@@ -1891,7 +1949,7 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 求索动物,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 求索科学,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 求索生活,http://[2409:8087:5e01:24::9]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
-???? 央视频道,#genre#
+ 央视频道,#genre#
 CCTV13,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
 CCTV13,http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
 CCTV13,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
@@ -3051,7 +3109,7 @@ CGTN法语,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280003/in
 CGTN阿拉伯语,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280001/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
 CGTN西班牙语,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000280002/index.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
 
-???? 卫视高清频道,#genre#
+ 卫视高清频道,#genre#
 广西卫视,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225987/index.m3u8?servicetype=1
 广西卫视,http://[2409:8087:5c00:10:5::120]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225987/index.m3u8?servicetype=1
 广西卫视,http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225987/index.m3u8?servicetype=1
