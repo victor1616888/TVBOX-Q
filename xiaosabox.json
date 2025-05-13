@@ -1,6 +1,6 @@
 {
     "spider": "./spider.jar",
-    "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
+    "wallpaper": "https://bing.img.run/rand.php",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
          {
@@ -2271,6 +2271,21 @@
         }
     ],
     "lives": [
+{
+      "name": "老友Q直播",
+      "playerType": 1,
+      "type": 0,
+      "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "url": "https://github.moeyy.xyz/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt"
+    },
+ { "name": "Guovin-V6",
+      "playerType": 1,
+      "type": 0,
+      "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png",
+      "url": "https://gh-proxy.com/github.com/Guovin/iptv-api/blob/gd/output/ipv6/result.txt"
+    },
         {
             "name": "AI直播",
             "type": 0,
@@ -2349,7 +2364,7 @@
         {
             "name": "范明明",
             "type": 0,
-            "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
             "timeout": 10
         },
         {
