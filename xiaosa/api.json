@@ -93,6 +93,21 @@
             }
         },
         {
+            "key": "咖啡",
+            "name": "咖啡｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "",
+                "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
+                "dataKey": "qwertyuiopqwertt",
+                "dataIv": "qwertyuiopqwertt",
+                "deviceId": "",
+                "version": "109"
+            }
+        },
+        {
             "key": "仓鼠",
             "name": "仓鼠｜APP",
             "type": 3,
