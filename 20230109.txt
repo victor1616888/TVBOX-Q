@@ -305,6 +305,8 @@
 凤凰卫视香港台,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视香港台,http://39.135.46.246:6610/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视香港台,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226321/index.m3u8
+北京卫视4K,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226435/index.m3u8
+北京卫视4K,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226438/index.m3u8
 北京卫视4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?servicetype=1
 北京卫视4K,http://39.135.46.246:6610/PLTV/77777777/224/3221226333/index.m3u8?
 北京卫视4K,http://39.135.46.226:6610/PLTV/77777777/224/3221226333/index.m3u8?
@@ -592,6 +594,7 @@ CCTV1,http://39.135.33.68/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.
 CCTV1,http://39.135.33.69/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.m3u8
 CCTV1,http://39.135.33.70/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.m3u8
 CCTV1,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225654/index.m3u8
+CCTV2,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8?servicetype=1
 CCTV2,http://39.135.33.12/PLTV/77777777/224/3221226599/index.m3u8
 CCTV2,http://39.135.33.41/PLTV/77777777/224/3221226599/index.m3u8
 CCTV2,http://39.135.33.43/PLTV/77777777/224/3221226599/index.m3u8
