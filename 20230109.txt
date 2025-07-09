@@ -359,7 +359,14 @@
 北京IPTV4K,http://[2409:8087:8:21::3]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::4]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
+南国都市4K,http://ikuai.haleeyo.cn:9003/udp/239.253.43.99:5146
+广东综艺4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.237:5146
+CCTV-4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.194:5146
+北京卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.2:5146
+深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 至臻视界4K,http://[2409:8087:8:21::6]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
+
 至臻视界4K,http://[2409:8087:8:21::7]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
 至臻视界4K,http://[2409:8087:8:21::8]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
 至臻视界4K,http://[2409:8087:8:21::9]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
