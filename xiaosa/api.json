@@ -3,41 +3,6 @@
     "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
     "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
     "sites": [
-{
-            "key": "移动",
-            "name": "移动｜4K",
-            "type": 3,
-            "api": "csp_YD",
-            "searchable": 1,
-            "quickSearch": 1,
-            "style": {
-                "type": "list"
-            }
-        },
-{
-            "key": "夸父",
-            "name": "夸父｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloudKF",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./json/kf.json"
-        },
-{
-            "key": "瓜子影视",
-            "name": "瓜子｜影视",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "豆瓣",
             "name": "豆瓣｜首页",
@@ -797,7 +762,21 @@
             },
             "ext": "./json/hm.json"
         },
-      
+        {
+            "key": "夸父",
+            "name": "夸父｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKF",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./json/kf.json"
+        },
         {
             "key": "123",
             "name": "123｜4K弹幕",
@@ -903,7 +882,17 @@
                 "type": "list"
             }
         },
-       
+        {
+            "key": "移动",
+            "name": "移动｜4K",
+            "type": 3,
+            "api": "csp_YD",
+            "searchable": 1,
+            "quickSearch": 1,
+            "style": {
+                "type": "list"
+            }
+        },
         {
             "key": "糖果",
             "name": "糖果｜搜索",
@@ -2235,16 +2224,14 @@
         }
     ],
     "lives": [
-
-{
-      "name": "老友Git直播",
-      "playerType": 1,
-      "type": 0,
-      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://gh-proxy.com/github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt"
-    },
-   
+        {
+            "name": "AI直播",
+            "type": 0,
+            "url": "https://github.3x25.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "playerType": 1,
+            "timeout": 10
+        },
         {
             "name": "Guovin",
             "type": 0,
