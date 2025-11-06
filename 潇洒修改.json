@@ -1991,6 +1991,7 @@
                 "ratio": 1.597
             }
         },
+
         {
             "key": "版本信息",
             "name": "版本｜信息",
@@ -1999,8 +2000,9 @@
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
-            "ext": "https://9877.kstore.space/Market/single.json"
+            "ext": "https://pizazz.s3.bitiful.net/single.json"
         },
+        
         {
             "key": "push_agent",
             "name": "手机｜推送",
@@ -2490,4 +2492,5 @@
     "ads": [
         "static-mozai.4gtv.tv"
     ]
+
 }
