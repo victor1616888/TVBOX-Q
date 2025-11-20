@@ -198,7 +198,6 @@
 凤凰卫视中文台,http://39.135.33.167/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
 凤凰卫视中文台,http://39.135.33.168/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
 凤凰卫视中文台,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8
-
 凤凰卫视中文台,http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8?servicetype=1
 凤凰卫视中文台,http://[2409:8087:5c00:10:5::134]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8?servicetype=1
 凤凰卫视中文台,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226331/index.m3u8?servicetype=1
