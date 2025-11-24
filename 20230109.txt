@@ -715,6 +715,7 @@ CCTV4,http://39.135.33.68/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.
 CCTV4,http://39.135.33.69/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8
 CCTV4,http://39.135.33.70/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8
 CCTV4,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8
+浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 北京卫视4K,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226435/index.m3u8
 北京卫视4K,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226438/index.m3u8
 北京卫视4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?servicetype=1
@@ -756,7 +757,7 @@ CCTV4,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北卫视4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
-浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
 湖南卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?IAS
 江苏卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?IAS
 四川卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?IAS
