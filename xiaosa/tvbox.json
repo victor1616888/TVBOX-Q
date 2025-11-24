@@ -325,6 +325,8 @@
             "headers": null,
             "params": null,
             "isActive": true,
+             "user": "alist",
+            "pass": "alist",
             "id": 1
           },
           {
