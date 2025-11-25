@@ -1,9 +1,9 @@
 {
-  //"spider": "https://gh-proxy.com/github.com/victor1616888/gao/blob/master/jar/XYQ.jar",
+  "spider": "https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",
 //"spider": "https://gh-proxy.com/github.com/victor1616888/TVBOX-Q/blob/master/jar/pg.jar",
-"spider": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",
- // "spider": "https://gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/jar/fan.txt",
-//"spider": "https://gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/xiaosa/spider.jar",
+//"spider": "https://v6.gh-proxy.org/https://github.com/qist/tvbox/blob/master/xiaosa/spider.jar",
+ // "spider": "https://v6.gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/jar/fan.txt",
+//"spider": "https://v6.gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/xiaosa/spider.jar",
   "warningText": "自用接口，完全免费使用，请勿传播！",
 "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
@@ -13,21 +13,21 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://hk.gh-proxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt"
+      "url": "https://v6.gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt"
     },
  { "name": "tzk426-V6",
       "playerType": 1,
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://gh-proxy.org/https://github.com/tzk426/iptv-api/blob/master/output/ipv6/result.txt"
+      "url": "https://v6.gh-proxy.org/https://github.com/tzk426/iptv-api/blob/master/output/ipv6/result.txt"
     },
  { "name": "老友Github v6",
       "playerType": 1,
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://hk.gh-proxy.com/https://github.com/victor1616888/TVBOX-Q/blob/master/PG/lives/%E5%8D%97%E5%AE%81%E8%87%AA%E7%94%A8.txt"
+      "url": "https://v6.gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/PG/lives/%E5%8D%97%E5%AE%81%E8%87%AA%E7%94%A8.txt"
     },
 {
       "name": "Git-Jsnzkpg",
@@ -35,7 +35,7 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://edgeone.gh-proxy.com/github.com/Jsnzkpg/Jsnzkpg/blob/81d4d2e1ee6fb335cf8e7be59ed2ef733c31acfc/Jsnzkpg1"
+      "url": "https://v6.gh-proxy.org/github.com/Jsnzkpg/Jsnzkpg/blob/81d4d2e1ee6fb335cf8e7be59ed2ef733c31acfc/Jsnzkpg1"
     },
 {
       "name": "Git-tzk426",
@@ -43,7 +43,7 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://gh-proxy.org/https://github.com/tzk426/iptv-api/blob/717574958094a8d1cbbbd1e4cc6c834e99accdf7/output/result.txt"
+      "url": "https://v6.gh-proxy.org/https://github.com/tzk426/iptv-api/blob/717574958094a8d1cbbbd1e4cc6c834e99accdf7/output/result.txt"
     },
 {
       "name": "Git-kakaxi-1-V4",
@@ -51,7 +51,7 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/7c90c11e147fc8049673107b7c6700f198ad28ec/iptv.txt"
+      "url": "https://v6.gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/7c90c11e147fc8049673107b7c6700f198ad28ec/iptv.txt"
     },
 {
       "name": "老友Q",
@@ -65,7 +65,7 @@
       "name": "组播转单播",
       "playerType": 1,
       "type": 0,
-      "url": "https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/iptv.txt",
+      "url": "https://v6.gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/iptv.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -74,7 +74,7 @@
       "name": " kimwang直播",
       "playerType": 1,
       "type": 0,
-      "url": "https://hk.gh-proxy.com/github.com/kimwang1978/collect-txt/blob/main/bbxx_lite.txt",
+      "url": "https://v6.gh-proxy.org/github.com/kimwang1978/collect-txt/blob/main/bbxx_lite.txt",
       "playerType": 1,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -88,7 +88,7 @@
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
-{"name":"16万•MV","type":0,"url":"https://hk.gh-proxy.com/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"},
+{"name":"16万•MV","type":0,"url":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"},
 {
       "name": "Burningv4",
       "playerType": 1,
