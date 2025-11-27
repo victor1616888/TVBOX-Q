@@ -421,12 +421,639 @@
                 "type": "list"
             }
         },
+  {
+      "key": "玩偶",
+      "name": "♨️玩偶智能┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGGGuard",
+
+     "jar": "http://我不是.摸鱼儿.top/d/moyu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "TVBox/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.com/",
+        "danMu": "弹"
+      }
+    },
+    {
+      "key": "MyDrive",
+      "name": "♨️玩偶智能┃我的云盘",
+      "type": 3,
+      "api": "csp_MyDriveGuard",
+"jar": "http://我不是.摸鱼儿.top/d/moyu.php",
+      "changeable": 0,
+      "indexs": 0,
+      "searchable": 1,
+      "style": {
+        "type": "list"
+      },
+      "ext": {
+        "Cloud-drive": "TVBox/Cloud-drive.txt"
+      }
+    },
+    {
+      "key": "醉挽清风",
+      "name": "♨️醉挽清风┃4K纯净",
+      "type": 4,
+      "api": "http://我不是.摸鱼儿.top/api/yyutx.php",
+"jar": "http://我不是.摸鱼儿.top/d/moyu.php",  
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "seed",
+      "name": "♨️霜雪笼花┃4K聚合",
+      "type": 3,
+      "api": "csp_SeedhubGuard",
+"jar": "http://我不是.摸鱼儿.top/d/moyu.php",
+      "changeable": 0,
+      "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
+      "searchable": 1,
+      "quickSearch": 1,
+      "indexs": 0,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "♨️玩偶备用┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/wogg.json"
+    },
+    {
+      "key": "MoggV2",
+      "name": "🍁优汐木偶┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/mogg.json"
+    },
+    {
+      "key": "UcXmV2",
+      "name": "🐂小二资源┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.top/json/ex.json"
+    },
+    {
+      "key": "QuarkLaBiV2",
+      "name": "🖍︎蜡笔资源┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.top/json/lb.json"
+    },
+    {
+      "key": "QuarkzzV2",
+      "name": "🏆️夸克至臻┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.top/json/zz.json"
+    },
+    {
+      "key": "YYDSYS",
+      "name": "🍡多多网盘┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.top/json/yyds.json"
+    },
+    {
+      "key": "QuarkTZ",
+      "name": "✊️团长网盘┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebTz",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "cloudLJ",
+      "name": "🐋天翼雷鲸┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShareCloudLJ",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/lj.json"
+    },
+    {
+      "key": "海绵",
+      "name": "🧽海绵资源┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShareCloudHM",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/hm.json"
+    },
+    {
+      "key": "123",
+      "name": "📅数字资源┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShareCloud123",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/123.json"
+    },
+    {
+      "key": "趣盘",
+      "name": "🥳百度趣盘┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebQu",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": {
+        "url": "https://www.qupanshe.com"
+      }
+    },
+    {
+      "key": "盘库",
+      "name": "🐼盘库资源┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebKuBa",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://panku8.com,https://yipanso.com"
+      }
+    },
+    {
+      "key": "夸父",
+      "name": "🏃夸父资源┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShareCloudKF",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      },
+      "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/kf.json"
+    },
+  {
+      "key": "Wexerxiaoziyuan",
+      "name": "💓‍二小┃4K💓‍",
+      "type": 3,
+      "api": "csp_WexerxiaoziyuanGuard",
+
+   "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "玩偶",
+      "name": "💓‍玩偶┃4K💓‍",
+      "type": 3,
+      "api": "csp_WoggGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexzhizhen",
+      "name": "💓至臻┃4K💓",
+      "type": 3,
+      "api": "csp_WexzhizhenGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexnullname",
+      "name": "💓无名┃4K💓",
+      "type": 3,
+      "api": "csp_WexnullnameGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 120
+    },
+    {
+      "key": "WexduoduoziyuanGuard",
+      "name": "💓多多┃4K💓",
+      "type": 3,
+      "api": "csp_WexduoduoziyuanGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 120
+    },
+    {
+      "key": "Wexsayangziyuan",
+      "name": "💓撒仰┃4K💓",
+      "type": 3,
+      "api": "csp_Wexsayangziyuan",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexmuougg",
+      "name": "💓木偶┃4K💓",
+      "type": 3,
+      "api": "csp_WexmuouggGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexshuangzixingGuard",
+      "name": "💓双星┃4K💓",
+      "type": 3,
+      "api": "csp_WexshuangzixingGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexXuexi",
+      "name": "💓综合┃4K💓",
+      "type": 3,
+      "api": "csp_WexXuexiGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "WexhubanGuard",
+      "name": "💓虎斑┃4K💓",
+      "type": 3,
+      "api": "csp_WexhubanGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "趣盘",
+      "name": "💓‍趣盘┃4K💓‍",
+      "type": 3,
+      "api": "csp_WexbdqupanGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "盘他",
+      "name": "💓‍盘他┃4K💓‍",
+      "type": 3,
+      "api": "csp_WexYDpantaGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "雷鲸",
+      "name": "💓‍雷鲸┃4K💓‍",
+      "type": 3,
+      "api": "csp_WexleijingGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wexpan123ziyuanGuard",
+      "name": "💓123┃4K💓",
+      "type": 3,
+      "api": "csp_Wexpan123ziyuanGuard",
+ "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4C1FF0E_773_wex_20251125202938981newMediaImage.png",
+      "searchable": 1,
+      "changeable": 1
+    },
+{
+      "key": "二小",
+      "name": "🦢二小┃4K",
+      "type": 3,
+      "api": "csp_ErXiaoGuard",
+ "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "双星",
+      "name": "🤩双星┃4K",
+      "type": 3,
+      "api": "csp_Star2Guard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 25
+    },
+    {
+      "key": "玩偶",
+      "name": "👽玩偶┃4K",
+      "type": 3,
+      "api": "csp_WoggGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "立播版",
+      "name": "🌟立播┃4K",
+      "type": 3,
+      "api": "csp_LibvioGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 30
+    },
+    {
+      "key": "蜡笔",
+      "name": "👠蜡笔┃4K",
+      "type": 3,
+      "api": "csp_LabiGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "木偶",
+      "name": "🪵木偶┃4K",
+      "type": 3,
+      "api": "csp_MuouGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "多多",
+      "name": "🪅多多┃4K",
+      "type": 3,
+      "api": "csp_DuoDuoGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "小飒",
+      "name": "💒小飒┃4K",
+      "type": 3,
+      "api": "csp_XsayangGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "至臻",
+      "name": "💌至臻┃4K",
+      "type": 3,
+      "api": "csp_ZhiZhenGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "虎斑",
+      "name": "🐯虎斑┃4K",
+      "type": 3,
+      "api": "csp_HuBanGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "SeedHub",
+      "name": "🍀种子┃4K",
+      "type": 3,
+      "api": "csp_SeedHubGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "光影",
+      "name": "🎥光影┃4K",
+      "type": 3,
+      "api": "csp_GuanyingGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "timeout": 30
+    },
+    {
+      "key": "云集",
+      "name": "🍊云集┃4K",
+      "type": 3,
+      "api": "csp_YunJiGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "极狐",
+      "name": "🦊极狐┃4K",
+      "type": 3,
+      "api": "csp_Fox4kGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "盘他",
+      "name": "🎸盘他┃4K",
+      "type": 3,
+      "api": "csp_PantaGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "海绵",
+      "name": "🧽海绵┃4K",
+      "type": 3,
+      "api": "csp_HaiMianGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "雷鲸",
+      "name": "🐳雷鲸┃4K",
+      "type": 3,
+      "api": "csp_LeiJingGuard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "123分享",
+      "name": "🌂123┃4K",
+      "type": 3,
+      "api": "csp_Time123Guard",
+"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "filterable": 1,
+      "timeout": 25
+    },
+    {
+      "key": "金牌",
+      "name": "🏅金牌┃超清┃无广",
+      "type": 3,
+      "api": "csp_AppMuou",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
+        "name": "金牌影院（请断网再安装）"
+      }
+    },
+    {
+      "key": "瓜子影视",
+      "name": "🍉瓜子┃超清┃无广",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "秒看",
+      "name": "⏱️秒看┃超清┃弹幕",
+      "type": 3,
+      "quickSearch": 1,
+      "api": "csp_AppGet",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "ext": {
+        "site": "https://mk1080.top/get.txt",
+        "dataKey": "c60d88b2eep53za8",
+        "dataIv": "c60d88b2eep53za8",
+        "token": "06caee3952a4c97d1ad4c766c875a99d3fa83aa68f46188823600d59ebba4469",
+        "ua": "okhttp/3.10.0"
+      }
+    },
         {
             "key": "本地",
             "name": "本地｜视频",
             "type": 3,
             "api": "csp_LocalFile"
         },
+ {
+      "key": "瓜子影视",
+      "name": "🍉瓜子┃超清┃无广",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
         {
             "key": "预告",
             "name": "新片｜预告",
