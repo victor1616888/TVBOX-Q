@@ -1023,6 +1023,15 @@
       "quickSearch": 1,
       "filterable": 1
     },
+ {
+      "key": "移动",
+      "name": "🌀移动急速┃4K纯净",
+      "type": 3,
+      "api": "csp_YD",
+"jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
     {
       "key": "秒看",
       "name": "⏱️秒看┃超清┃弹幕",
