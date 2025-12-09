@@ -411,6 +411,26 @@
                 "type": "list"
             }
         },
+{
+      "key": "金牌",
+      "name": "🏅金牌┃超清┃无广",
+      "type": 3,
+      "api": "csp_AppMuou",
+      "jar": "http://我不是.摸鱼儿.top/d/moyuer.php",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": "https://muouapp.oss-cn-hangzhou.aliyuncs.com/MUOUAPP/godbbq.txt",
+        "name": "金牌影院（请断网再安装）"
+      }
+    },
+ {
+            "key": "金牌影视",
+            "name": "💡金牌｜影视",
+            "type": 3,
+            "api": "csp_Jpys",
+            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        },
         {
             "key": "人人",
             "name": "人人｜4K",
