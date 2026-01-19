@@ -311,7 +311,7 @@
 凤凰卫视中文台,http://122.70.160.24:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228527/1.m3u8
 凤凰卫视资讯台,http://122.70.160.24:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
 凤凰卫视香港台,http://122.70.160.24:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
-
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 CCTV13,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
 CCTV13,http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
 CCTV13,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8?servicetype=1
@@ -860,6 +860,9 @@ CCTV4,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index
 江苏卫视4K,http://39.135.33.70/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226465/index.m3u8
 江苏卫视4K,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226465/index.m3u8
 江苏卫视4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226465/index.m3u8?servicetype=1
+东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+深圳卫视4K,http://171.83.103.119:9999/rtp/239.69.2.28:11322
 华数4K,http://218.21.76.118:10001/udp/239.81.0.123:4056$贺州电信#http://222.218.122.93:8188/udp/239.81.0.123:4056$广西电信31
 华数4K,http://222.83.161.17:9003/udp/239.81.0.123:4056$广西电信11
 华数4K,http://171.104.106.97:50112/udp/239.81.0.123:4056$广西电信21
@@ -1362,7 +1365,10 @@ CCTV-4K_50FPS(2)[2160P],http://121.29.169.12:2082/rtp/239.253.94.43:6468
 CCTV16(4K),http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
 CCTV16(4K),http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1#http://223.105.252.57/PLTV/3/224/3221228168/index.m3u8?servicetype=1#http://223.105.252.58/PLTV/3/224/3221228168/index.m3u8?servicetype=1
 爱上4K,http://wouu.net:9977/udp/239.93.0.97:5140#http://[2409:8087:5e08:24::8]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281
-斗鱼4k电影,http://allinone.netsite.cc/douyu/9249162#http://159.75.85.63:35455/douyu/9249162#http://epg.112114.xyz/douyu/9249162#https://sxtv.cloudns.org/douyu/9249162
+斗鱼4k电影,http://php.404003.xyz/live/douyuyqk.php?id=9249162#http://allinone.netsite.cc/douyu/9249162#http://159.75.85.63:35455/douyu/9249162#http://epg.112114.xyz/douyu/9249162#https://sxtv.cloudns.org/douyu/9249162
+斗鱼4k杜比电影,http://php.404003.xyz/live/douyuyqk.php?id=8663752
+贝爷电影,http://php.404003.xyz/live/douyuyqk.php?id=925724
+洛克电影,http://php.404003.xyz/live/douyuyqk.php?id=9414884
 咪咕4K1,http://[2409:8087:5e00:24::29]:6610/000000001000/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕4K2,http://[2409:8087:5e00:24::29]:6610/000000001000/3000000010000015686/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 咪咕4K3,http://[2409:8087:5e00:24::29]:6610/000000001000/3000000001000005308/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
@@ -1693,14 +1699,14 @@ CCTV16,http://[2409:8087:5c00:10:5::167]/cdnrrs.gx.chinamobile.com/PLTV/3/224/32
 凤凰卫视香港台,http://39.135.46.246:6610/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1
 凤凰卫视香港台,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226321/index.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2#http://cdn.132.us.kg/live/fct4k/stream.m3u8
-王刚美食,https://www.goodiptv.club/douyu/8144937#http://zzy789.xyz/douyu1.php?id=8144937
+王刚美食,http://php.404003.xyz/live/douyuyqk.php?id=8144937#https://live.metshop.top/douyu/8144937
 翡翠综合台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
 凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
 凤凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
 凤凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
 
-斗鱼风味美食,https://www.goodiptv.club/douyu/9650849#http://zzy789.xyz/douyu1.php?id=9650849
+斗鱼风味美食,https://www.goodiptv.club/douyu/9650849#http://php.404003.xyz/live/douyuyqk.php?id=9650849
 
 🇨🇳 央视频道,#genre#
 CCTV13,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226046/index.m3u8?servicetype=1
@@ -2009,7 +2015,7 @@ CCTV4,http://39.135.33.68/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.
 CCTV4,http://39.135.33.69/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8
 CCTV4,http://39.135.33.70/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8
 CCTV4,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8
-CCTV5,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8?servicetype=1
+CCTV5,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225801/index.m3u8?servicetype=1#http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225925/index.m3u8?servicetype=1
 CCTV5,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225925/index.m3u8?servicetype=1
 CCTV5,http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225925/index.m3u8?servicetype=1
 CCTV5,http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225925/index.m3u8?servicetype=1
@@ -2605,7 +2611,8 @@ CCTV17,http://[2409:8087:5c00:10:5::98]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322
 
 
 🇨🇳 卫视高清频道,#genre#
-广西卫视,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225987/index.m3u8?servicetype=1
+
+广西卫视,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225987/index.m3u8?servicetype=1#http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225894/index.m3u8-
 广西卫视,http://[2409:8087:5c00:10:5::120]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225987/index.m3u8?servicetype=1
 广西卫视,http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225987/index.m3u8?servicetype=1
 广西卫视,http://[2409:8087:5c00:10:5::136]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225987/index.m3u8?servicetype=1
