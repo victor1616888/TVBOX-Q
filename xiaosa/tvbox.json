@@ -263,7 +263,10 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "https://woog.nxog.eu.org"
+                    "https://woog.nxog.eu.org",
+                    "https://woog.nxog.fun",
+                    "https://woog.nxog.eu.org",
+                    "https://woog.430520.xyz"
                 ]
             }
         },
@@ -328,7 +331,14 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "./json/雷鲸.json"
+            "ext": {
+                "site": [
+                    "https://www.leijing.xyz",
+                    "https://www.leijing1.com",
+                    "https://leijing.xyz",
+                    "https://leijing1.com"
+                ]
+            }
         },
         {
             "key": "海绵",
@@ -343,9 +353,15 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "./json/海绵.json"
+            "ext": {
+                "site": [
+                    "http://haimian.eu.org",
+                    "https://www.hmxz.org",
+                    "https://www.haimianxz.com"
+                ]
+            }
         },
-        {
+       {
             "key": "夸父",
             "name": "夸父｜4K",
             "type": 3,
@@ -358,7 +374,12 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "./json/夸父.json"
+            "ext": {
+                "site": [
+                    "https://www.kfzy.cc"
+                ],
+                "cookie": "bbs_sid=qtrfbfct9gs8e7qat96o3nf09t; isClose=yes; __mxau__c2-lS6GI0pR=de438e75-e385-47c4-acb1-6564b407c7b1; __mxaf__c2-lS6GI0pR=1761439615; bbs_token=9NqiBWxAvM2MN_2FST20QOg5g9gcyzm2Hqfd9YwaQjK6Y_3D; __mxas__c2-lS6GI0pR=%7B%22sid%22%3A%22e4f30c47-1290-431b-b228-b9116c4744bd%22%2C%22vd%22%3A5%2C%22stt%22%3A168%2C%22dr%22%3A3%2C%22expires%22%3A1761476207%2C%22ct%22%3A1761474407%7D; __mxav__c2-lS6GI0pR=13"
+            }
         },
         {
             "key": "盘它",
@@ -371,6 +392,27 @@
             "changeable": 1,
             "style": {
                 "type": "list"
+            }
+        },
+
+ {
+            "key": "夸克盘",
+            "name": "夸克盘｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudkuake",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": {
+                "site": [
+                    "https://pan.quark.cn/s/c228db4872df#/list/share",
+                    "https://pan.quark.cn/s/c228db4872df#/list/share/d7ea975f5d5d4229a0f6524be6ba5f35"
+                ]
             }
         },
         {
@@ -386,7 +428,36 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "./json/123.json"
+            "ext": {
+                "site": [
+                    "https://123panfx.com",
+                    "https://pan1.me"
+                ]
+            }
+        },
+        {
+            "key": "人人",
+            "name": "人人｜4K",
+            "type": 3,
+            "api": "csp_RenRen"
+        },
+        {
+            "key": "即刻",
+            "name": "即刻｜4K",
+            "type": 3,
+            "api": "csp_Jike",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "双星",
+            "name": "双星｜4K",
+            "type": 3,
+            "api": "csp_ShuangXing",
+            "style": {
+                "type": "list"
+            }
         },
 {
             "key": "配置中心",
@@ -679,7 +750,7 @@
       "type": 3,
       "api": "csp_WexerxiaoziyuanGuard",
 
-   "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+   "jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -688,7 +759,7 @@
       "name": "💓‍玩偶┃4K💓‍",
       "type": 3,
       "api": "csp_WoggGuard",
-"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+"jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -697,7 +768,7 @@
       "name": "💓至臻┃4K💓",
       "type": 3,
       "api": "csp_WexzhizhenGuard",
-"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+"jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -706,7 +777,7 @@
       "name": "💓无名┃4K💓",
       "type": 3,
       "api": "csp_WexnullnameGuard",
- "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+ "jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1,
       "timeout": 120
@@ -716,7 +787,7 @@
       "name": "💓多多┃4K💓",
       "type": 3,
       "api": "csp_WexduoduoziyuanGuard",
-"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+"jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1,
       "timeout": 120
@@ -726,7 +797,7 @@
       "name": "💓撒仰┃4K💓",
       "type": 3,
       "api": "csp_Wexsayangziyuan",
- "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+ "jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -735,7 +806,7 @@
       "name": "💓木偶┃4K💓",
       "type": 3,
       "api": "csp_WexmuouggGuard",
- "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+ "jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -744,7 +815,7 @@
       "name": "💓双星┃4K💓",
       "type": 3,
       "api": "csp_WexshuangzixingGuard",
- "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+ "jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -753,7 +824,7 @@
       "name": "💓综合┃4K💓",
       "type": 3,
       "api": "csp_WexXuexiGuard",
-"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+"jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -762,7 +833,7 @@
       "name": "💓虎斑┃4K💓",
       "type": 3,
       "api": "csp_WexhubanGuard",
- "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+ "jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -771,7 +842,7 @@
       "name": "💓‍趣盘┃4K💓‍",
       "type": 3,
       "api": "csp_WexbdqupanGuard",
- "jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+ "jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1,
       "style": {
@@ -783,7 +854,7 @@
       "name": "💓‍盘他┃4K💓‍",
       "type": 3,
       "api": "csp_WexYDpantaGuard",
-"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+"jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -792,7 +863,7 @@
       "name": "💓‍雷鲸┃4K💓‍",
       "type": 3,
       "api": "csp_WexleijingGuard",
-"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",      "searchable": 1,
+"jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",      "searchable": 1,
       "changeable": 1
     },
     {
@@ -800,7 +871,7 @@
       "name": "💓123┃4K💓",
       "type": 3,
       "api": "csp_Wexpan123ziyuanGuard",
-"jar": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/434B57F_773_wex_20251205021657228newMediaImage.png",
+"jar": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767972472524o87GLB.txt",
       "searchable": 1,
       "changeable": 1
     },
@@ -809,7 +880,7 @@
       "name": "🦢二小┃4K",
       "type": 3,
       "api": "csp_ErXiaoGuard",
- "jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+ "jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -821,7 +892,7 @@
       "name": "🤩双星┃4K",
       "type": 3,
       "api": "csp_Star2Guard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -835,7 +906,7 @@
       "name": "👽玩偶┃4K",
       "type": 3,
       "api": "csp_WoggGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -846,7 +917,7 @@
       "name": "🌟立播┃4K",
       "type": 3,
       "api": "csp_LibvioGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
@@ -857,7 +928,7 @@
       "name": "👠蜡笔┃4K",
       "type": 3,
       "api": "csp_LabiGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -869,7 +940,7 @@
       "name": "🪵木偶┃4K",
       "type": 3,
       "api": "csp_MuouGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -881,7 +952,7 @@
       "name": "🪅多多┃4K",
       "type": 3,
       "api": "csp_DuoDuoGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -893,7 +964,7 @@
       "name": "💒小飒┃4K",
       "type": 3,
       "api": "csp_XsayangGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -905,7 +976,7 @@
       "name": "💌至臻┃4K",
       "type": 3,
       "api": "csp_ZhiZhenGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -917,7 +988,7 @@
       "name": "🐯虎斑┃4K",
       "type": 3,
       "api": "csp_HuBanGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -929,7 +1000,7 @@
       "name": "🍀种子┃4K",
       "type": 3,
       "api": "csp_SeedHubGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -941,7 +1012,7 @@
       "name": "🎥光影┃4K",
       "type": 3,
       "api": "csp_GuanyingGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -952,7 +1023,7 @@
       "name": "🍊云集┃4K",
       "type": 3,
       "api": "csp_YunJiGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -964,7 +1035,7 @@
       "name": "🦊极狐┃4K",
       "type": 3,
       "api": "csp_Fox4kGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -976,7 +1047,7 @@
       "name": "🎸盘他┃4K",
       "type": 3,
       "api": "csp_PantaGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -988,7 +1059,7 @@
       "name": "🧽海绵┃4K",
       "type": 3,
       "api": "csp_HaiMianGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -1000,7 +1071,7 @@
       "name": "🐳雷鲸┃4K",
       "type": 3,
       "api": "csp_LeiJingGuard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -1012,7 +1083,7 @@
       "name": "🌂123┃4K",
       "type": 3,
       "api": "csp_Time123Guard",
-"jar": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/LqSHQrRW.png",
+"jar": "http://oss4liview.moji.com/thd_file/2026/01/20/b6f1d66065832ba186de7bfa69113069.jpg",
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
