@@ -1399,6 +1399,9 @@ CCTV16,http://[2409:8087:5c00:10:5::166]/cdnrrs.gx.chinamobile.com/PLTV/3/224/32
 CCTV16,http://[2409:8087:5c00:10:5::167]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225956/index.m3u8?servicetype=1
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 🇨🇳 港.澳.财经.美食,#genre#
+凤凰卫视-资讯台,http://gxyd.484947.xyz/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+凤凰卫视-中文台,http://gxyd.484947.xyz/PLTV/77777777/224/3221226331/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+凤凰卫视-香港台,http://gxyd.484947.xyz/PLTV/77777777/224/3221226321/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 凤凰卫视资讯台,http://[2409:8087:5c00:10:5::10]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8?servicetype=1
 凤凰卫视资讯台,http://[2409:8087:5c00:10:5::110]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226324/index.m3u8?servicetype=1
 凤凰卫视资讯台,http://39.135.46.98:6610/PLTV/77777777/224/3221226324/index.m3u8?servicetype=1
