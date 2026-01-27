@@ -146,7 +146,7 @@
             "indexs": 0,
             "ext": "https://pizazz.s3.bitiful.net/single.json"
         },
-     {
+    {
             "key": "玩偶",
             "name": "玩偶｜4K",
             "type": 3,
@@ -157,8 +157,6 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "https://www.wogg.lol",
-                    "https://wogg.xxooo.cf",
                     "https://www.wogg.one",
                     "https://wogg.333232.xyz",
                     "https://woggpan.888484.xyz"
@@ -176,7 +174,8 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "http://xsayang.fun:12512"
+                    "http://xsayang.fun:12512",
+                    "http://154.201.83.50:12512"
                 ]
             }
         },
@@ -299,7 +298,38 @@
             "changeable": 1,
             "ext": {
                 "site": [
-                    "http://103.45.162.207:20720"
+                    "http://xhban.xyz:20720",
+                    "http://154.222.27.33:20720"
+                ]
+            }
+        },
+        {
+            "key": "闪电",
+            "name": "闪电｜4K",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://sd.sduc.site"
+                ]
+            }
+        },
+        {
+            "key": "夸克",
+            "name": "夸克｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.quarktv.cc"
                 ]
             }
         },
@@ -361,7 +391,7 @@
                 ]
             }
         },
-       {
+        {
             "key": "夸父",
             "name": "夸父｜4K",
             "type": 3,
@@ -376,9 +406,9 @@
             },
             "ext": {
                 "site": [
-                    "https://www.kfzy.cc"
+                    "https://www.kfjwzz.com"
                 ],
-                "cookie": "bbs_sid=qtrfbfct9gs8e7qat96o3nf09t; isClose=yes; __mxau__c2-lS6GI0pR=de438e75-e385-47c4-acb1-6564b407c7b1; __mxaf__c2-lS6GI0pR=1761439615; bbs_token=9NqiBWxAvM2MN_2FST20QOg5g9gcyzm2Hqfd9YwaQjK6Y_3D; __mxas__c2-lS6GI0pR=%7B%22sid%22%3A%22e4f30c47-1290-431b-b228-b9116c4744bd%22%2C%22vd%22%3A5%2C%22stt%22%3A168%2C%22dr%22%3A3%2C%22expires%22%3A1761476207%2C%22ct%22%3A1761474407%7D; __mxav__c2-lS6GI0pR=13"
+                "cookie": "bbs_sid=bi7dpnm6vp31s38rjqlqq8vq84; bbs_token=TWiR3YUrGoVpbdTkjAJ0xMe_2B_2FiaFvd84V3_2FEZJRRSKU_3D"
             }
         },
         {
@@ -392,27 +422,6 @@
             "changeable": 1,
             "style": {
                 "type": "list"
-            }
-        },
-
- {
-            "key": "夸克盘",
-            "name": "夸克盘｜4K",
-            "type": 3,
-            "api": "csp_PanWebShareCloudkuake",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": {
-                "site": [
-                    "https://pan.quark.cn/s/c228db4872df#/list/share",
-                    "https://pan.quark.cn/s/c228db4872df#/list/share/d7ea975f5d5d4229a0f6524be6ba5f35"
-                ]
             }
         },
         {
