@@ -43,7 +43,7 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://v6.gh-proxy.org/https://github.com/tzk426/iptv-api/blob/717574958094a8d1cbbbd1e4cc6c834e99accdf7/output/result.txt"
+      "url": "https://gh-proxy.org/https://github.com/tzk426/iptv-api/blob/master/output/result.txt"
     },
 {
       "name": "Git-kakaxi-1-V4",
@@ -51,7 +51,7 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://v6.gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/7c90c11e147fc8049673107b7c6700f198ad28ec/iptv.txt"
+      "url": "https://gh-proxy.org/https://github.com/tzk426/iptv-api/blob/master/output/ipv4/result.txt"
     },
 {
       "name": "老友Q",
