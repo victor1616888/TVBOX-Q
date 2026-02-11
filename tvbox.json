@@ -22,7 +22,7 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://v6.gh-proxy.org/https://github.com/tzk426/iptv-api/blob/master/output/ipv6/result.txt"
     },
- { "name": "Git组播转单",
+ { "name": "Git组转单",
       "playerType": 1,
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
