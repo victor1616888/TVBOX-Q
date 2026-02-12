@@ -22,12 +22,12 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png",
       "url": "https://v6.gh-proxy.org/https://github.com/tzk426/iptv-api/blob/master/output/ipv6/result.txt"
     },
- { "name": "老友Github v6",
+ { "name": "Git组转单",
       "playerType": 1,
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://v6.gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/PG/lives/%E5%8D%97%E5%AE%81%E8%87%AA%E7%94%A8.txt"
+      "url": "https://gh-proxy.org/https://github.com/q1017673817/iptvz/blob/67020a2f9082819f120eb9e6f27ccea381945d04/zubo_all.txt"
     },
 {
       "name": "Git-Jsnzkpg",
@@ -43,7 +43,7 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://v6.gh-proxy.org/https://github.com/tzk426/iptv-api/blob/717574958094a8d1cbbbd1e4cc6c834e99accdf7/output/result.txt"
+      "url": "https://gh-proxy.org/https://github.com/tzk426/iptv-api/blob/master/output/result.txt"
     },
 {
       "name": "Git-kakaxi-1-V4",
@@ -51,7 +51,7 @@
       "type": 0,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png",
-      "url": "https://v6.gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/7c90c11e147fc8049673107b7c6700f198ad28ec/iptv.txt"
+      "url": "https://gh-proxy.org/https://github.com/tzk426/iptv-api/blob/master/output/ipv4/result.txt"
     },
 {
       "name": "老友Q",
@@ -62,7 +62,7 @@
       "url": "https://gh-proxy.com/raw.githubusercontent.com/victor1616888/TVBOX-Q/master/20230109.txt"
     },
  {
-      "name": "组播转单播",
+      "name": "kakaxi组转单",
       "playerType": 1,
       "type": 0,
       "url": "https://v6.gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/iptv.txt",
