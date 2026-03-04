@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/spider.jar;md5;4ec499356cfe24d4e573a87d68554b7b",
+  "spider": "./jar/spider.jar;md5;87590f2449777f5867b34ea864fcbbc2",
   "lives": [
     {"name": "migu","type": 0,"url": "https://develop202.github.io/migu_video/interface.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
     {"name": "live","type": 0,"url": "https://epg.pw/test_channels.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
@@ -118,6 +118,7 @@
     {"key": "UC云盘","name": "我的｜UC","type": 3,"api": "csp_PanUc","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433},"ext": "./json/ucShare.json"},
     {"key": "百度云盘","name": "我的｜百度","type": 3,"api": "csp_PanBaiDu","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
     {"key": "盘搜","name": "盘搜｜搜索","type": 3,"api": "csp_PanSou","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
+    {"key": "影链","name": "影链｜搜索","type": 3,"api": "csp_Yinglian","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
     {"key": "糖果","name": "糖果｜搜索","type": 3,"api": "csp_TGSou","searchable": 1,"quickSearch": 0,"filterable": 0,"timeout": 60},
     {"key": "百酷","name": "百酷｜搜索","type": 3,"api": "csp_Baiku","timeout": 60},
     {"key": "米搜","name": "米搜｜搜索","type": 3,"api": "csp_MiSou","timeout": 60},
