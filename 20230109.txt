@@ -723,7 +723,7 @@ CCTV4,http://39.135.33.68/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.
 CCTV4,http://39.135.33.69/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8
 CCTV4,http://39.135.33.70/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8
 CCTV4,http://39.135.33.209/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225922/index.m3u8
-浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8#http://113.101.244.191:10000/udp/239.77.0.58:5146#http://124.163.112.152:6001/rtp/226.0.1.247:2123#http://14.21.168.252:8888/udp/239.77.0.58:5146#http://218.21.76.220:10001/udp/239.81.0.75:4056
+浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8#http://59.44.36.237:6610/ZTE_EPG16/2/9355?virtualDomain=.live_hls.zte.com#https://play-qukan.cztv.com/live/1758879019692345.m3u8#http://113.101.244.191:10000/udp/239.77.0.58:5146#http://124.163.112.152:6001/rtp/226.0.1.247:2123#http://14.21.168.252:8888/udp/239.77.0.58:5146#http://218.21.76.220:10001/udp/239.81.0.75:4056
 北京卫视4K,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226435/index.m3u8
 北京卫视4K,http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221226438/index.m3u8
 北京卫视4K,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?servicetype=1
@@ -3707,6 +3707,9 @@ iHot亚洲影院,http://[2409:8087:5e00:24::29]:6610/000000001000/58418162275395
 2021年,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 2022年,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 2023年,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
+2025年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
+2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 斗鱼电影,#genre#
 斗鱼4K,https://www.goodiptv.club/douyu/9249162#http://php.404003.xyz/live/douyuyqk.php?id=9249162
 华语经典,http://php.404003.xyz/live/douyuyqk.php?id=434971
