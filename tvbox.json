@@ -80,10 +80,10 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
 {
-      "name": " Q线路v4v6直播",
+      "name": " 广西移动直播",
       "playerType": 1,
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/victor1616888/TVBOX-Q/master/tvlive.txt",
+      "url": "https://gh-proxy.org/https://github.com/Healer-sys/Home/blob/main/iptv/gx.m3u",
       "playerType": 1,
       "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
