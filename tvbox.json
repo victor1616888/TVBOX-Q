@@ -15,13 +15,7 @@
       "logo": "https://gh-proxy.org/https://github.com/fanmingming/live/blob/main/tv/{name}.png",
       "url": "https://v6.gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/20230109.txt"
     },
- { "name": "tzk426-V6",
-      "playerType": 1,
-      "type": 0,
-      "epg": "https://epg.112114.xyz/pp.xml/?ch={name}&date={date}",
-      "logo": "https://gh-proxy.org/https://github.com/fanmingming/live/blob/main/tv/{name}.png",
-      "url": "https://v6.gh-proxy.org/https://github.com/tzk426/iptv-api/blob/master/output/ipv6/result.txt"
-    },
+
  { "name": "Git组转单",
       "playerType": 1,
       "type": 0,
@@ -30,28 +24,12 @@
       "url": "https://gh-proxy.org/https://github.com/q1017673817/iptvz/blob/main/zubo_all.txt"
     },
 {
-      "name": "Git-Jsnzkpg",
+      "name": "京联通组转单3",
       "playerType": 1,
       "type": 0,
       "epg": "https://epg.112114.xyz/pp.xml/?ch={name}&date={date}",
       "logo": "https://gh-proxy.org/https://github.com/fanmingming/live/blob/main/tv/{name}.png",
-      "url": "https://v6.gh-proxy.org/github.com/Jsnzkpg/Jsnzkpg/blob/81d4d2e1ee6fb335cf8e7be59ed2ef733c31acfc/Jsnzkpg1"
-    },
-{
-      "name": "Git-tzk426",
-      "playerType": 1,
-      "type": 0,
-      "epg": "https://epg.112114.xyz/pp.xml/?ch={name}&date={date}",
-      "logo": "https://gh-proxy.org/https://github.com/fanmingming/live/blob/main/tv/{name}.png",
-      "url": "https://gh-proxy.org/https://github.com/tzk426/iptv-api/blob/master/output/result.txt"
-    },
-{
-      "name": "Git-kakaxi-1-V4",
-      "playerType": 1,
-      "type": 0,
-      "epg": "https://epg.112114.xyz/pp.xml/?ch={name}&date={date}",
-      "logo": "https://gh-proxy.org/https://github.com/fanmingming/live/blob/main/tv/{name}.png",
-      "url": "https://gh-proxy.org/https://github.com/tzk426/iptv-api/blob/master/output/ipv4/result.txt"
+      "url": "https://v6.gh-proxy.org/https://github.com/jia070310/4K-IPTV-M3U/blob/main/txt/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A3.txt"
     },
 {
       "name": "北京联通组转单",
@@ -90,38 +68,38 @@
     },
 {"name":"16万•MV","type":0,"url":"https://v6.gh-proxy.org/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt"},
 {
-      "name": "Burningv4",
+      "name": "北京联通组转单",
       "playerType": 1,
       "type": 0,
-      "url": "https://gh-proxy.com/github.com/BurningC4/Chinese-IPTV/blob/master/TV-IPV4.m3u",
+      "url": "https://v6.gh-proxy.org/https://github.com/jia070310/4K-IPTV-M3U/blob/main/txt/%E5%8C%97%E4%BA%AC%E8%81%94%E9%80%9A.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://gh-proxy.org/https://github.com/fanmingming/live/blob/main/tv/{name}.png"
     },
 
 {
-      "name": "YueChan",
+      "name": "广西电信",
       "playerType": 1,
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "url": "https://v6.gh-proxy.org/https://github.com/victor1616888/CHINA-IPTV/blob/main/Unicast/guangxi/telecom.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://gh-proxy.org/https://github.com/fanmingming/live/blob/main/tv/{name}.png"
     },
 
     {
-      "name": "zengyzIPV6",
+      "name": "移动咪咕",
       "playerType": 1,
       "type": 0,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://gh-proxy.org/https://github.com/fanmingming/live/blob/main/tv/{name}.png",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/zengyz1992/tvbox_ipv6/main/IPTV.m3u"
+      "url": "https://gh-proxy.org/https://github.com/jia070310/lemonTV/blob/main/iptv-fe.m3u"
     }, 
     {
-      "name": "惊喜v4",
+      "name": "广西联通",
       "playerType": 1,
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+      "url": "https://v6.gh-proxy.org/https://github.com/victor1616888/CHINA-IPTV/blob/main/Unicast/guangxi/unicom.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://gh-proxy.org/https://github.com/fanmingming/live/blob/main/tv/{name}.png"
