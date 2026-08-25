@@ -119,6 +119,8 @@ V1.1.2版本以下
 
 提示2：如果遇到“转存原画”速度被限制在2M左右，那麽请尝试在阿里云盘APP里退出登录，然后重新登录，然后删除播放设备SD卡的TV目
 随机壁纸：1、随机必应壁纸：https://api.bimg.cc/random?w=1920&h=1080&mkt=zh-CN
+2、https://yunapi.cn/api/bysjbz
+3.
 
 
 自用仓库，如果喜欢，请Fork自用，谢谢！
