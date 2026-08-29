@@ -118,9 +118,18 @@ V1.1.2版本以下
 提示：如果遇到极速GO原画反复快速报错，不一定是被封号，可尝试杀掉播放器重启，或重启整个播放设备解决。
 
 提示2：如果遇到“转存原画”速度被限制在2M左右，那麽请尝试在阿里云盘APP里退出登录，然后重新登录，然后删除播放设备SD卡的TV目
-随机壁纸：1、随机必应壁纸：https://api.bimg.cc/random?w=1920&h=1080&mkt=zh-CN
+
+随机必应壁纸：
+1、https://api.bimg.cc/random?w=1920&h=1080&mkt=zh-CN
 2、https://yunapi.cn/api/bysjbz
 3.https://api.xsot.cn/bing?jump=true
+4. https://bing.img.run/rand.php    
+5. http://api.btstu.cn/sjbz/?lx=fengjing  
+6.https://bz.w3h5.com/img/rand 
+7、https://api.bimg.cc/random  
+8、https://yunapi.cn/api/bysjbz  
+9、https://wallpaper.csun.site  
+10、https://api.horatio.cn/tool/bing.php
 
 
 自用仓库，如果喜欢，请Fork自用，谢谢！
