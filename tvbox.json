@@ -5,7 +5,7 @@
  // "spider": "https://v6.gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/jar/fan.txt",
 //"spider": "https://v6.gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/xiaosa/spider.jar",
   "warningText": "自用接口，完全免费使用，请勿传播！",
-"wallpaper": "https://api.xsot.cn/bing?jump=true",//1. https://bz.w3h5.com/img/uhd    2. http://api.btstu.cn/sjbz/?lx=fengjing  3.https://bz.w3h5.com/img/rand 4、https://api.bimg.cc/random  5、https://yunapi.cn/api/bysjbz   6、https://wallpaper.csun.site   7、https://api.horatio.cn/tool/bing.php
+"wallpaper": "https://api.xsot.cn/bing?jump=random",//1. https://bz.w3h5.com/img/uhd    2. http://api.btstu.cn/sjbz/?lx=fengjing  3.https://bz.w3h5.com/img/rand 4、https://api.bimg.cc/random  5、https://yunapi.cn/api/bysjbz   6、https://wallpaper.csun.site   7、https://api.horatio.cn/tool/bing.php
   "lives": [
     {
       "name": "老友Q直播",
