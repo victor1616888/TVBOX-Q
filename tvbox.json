@@ -62,7 +62,7 @@
       "name": " 广西移动直播",
       "playerType": 1,
       "type": 0,
-      "url": "https://v6.gh-proxy.org/https://github.com/xisohi/CHINA-IPTV/blob/9a9e55ed15a2f901ff3c02782fc7b0dd17627998/Unicast/guangxi/mobile.txt",
+      "url": "https://v6.gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/%E5%B9%BF%E8%A5%BF%E8%81%94%E9%80%9Aiptv.m3u",
       "playerType": 1,
        "epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
