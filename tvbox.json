@@ -32,6 +32,15 @@
       "logo": "https://logo.wyfc.qzz.io/{name}.png",
       "url": "https://v6.gh-proxy.org/https://github.com/Supprise0901/TVBox_live/blob/main/live.txt"
     },
+
+{
+      "name": "全网通",
+      "playerType": 1,
+      "type": 0,
+      "epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png",
+      "url": "https://v6.gh-proxy.org/https://github.com/adminouyang/231006/blob/82be1ba1278356fd5e6d42545e608c96b1c264f0/py/udpxy/output/all.txt"
+    },
 {
       "name": "北京联通组转单",
       "playerType": 1,
