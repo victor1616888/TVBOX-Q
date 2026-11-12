@@ -13,10 +13,13 @@
 
 {
   "urls": [
-    {
+    
+
+{
       "url": "https://v6.gh-proxy.org/https://github.com/victor1616888/TVBOX-Q/blob/master/tvbox.json",
       "name": "🌏邕城老友Q线"
     },
+     
 {
       "url": "http://我不是.摸鱼儿.cc",
       "name": "🙀摸鱼儿"
@@ -163,11 +166,6 @@
     {
       "name": "🌼大眼仔",
       "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json"
-    },
-
- {
-      "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/hd9211/Tvbox1/main/wuheng18_ysc.json ",
-      "name": "🍔多仓"
     }
   ]
 }
