@@ -1,11 +1,12 @@
 {
-  "spider": "./jar/fan.txt;md5;6d10a60af6c0976836933c5f3cf9e8a7",
+  "spider": "./jar/fan.txt;md5;76e9565340e6d28c363b914ca2d506ed",
   "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {"key": "点我切源","name": "豆豆┃片单 <Fix Everything>","type": 3,"api": "csp_DouDouGuard","indexs": 1,"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "MDrive","name": "🗂我的云盘┃配置","type": 3,"api": "csp_MyDriveGuard","changeable": 0,"indexs": 0,"searchable": 1,"style": {"type": "oval"},"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
     {"key": "YGP","name": "🚀荐影┃预告片","type": 3,"api": "csp_YGPGuard","searchable": 0,"quickSearch": 0,"changeable": 0},
+    {"key": "alllive","name": "🎮一直播┃直播","type": 3,"api": "csp_AllliveGuard","style": {"type": "rect","ratio": 1.597},"timeout": 15,"playerType": "2","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="},
     {"key": "MTV1","name": "🎙️易听┃音乐","type": 3,"api": "csp_MusicGuard","style": {"type": "rect","ratio": 1},"playerType": 2,"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "爱刷","name": "♻️爱刷┃短视","type": 3,"api": "csp_SsspGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.597},"ext": {}},
     {"key": "seed","name": "💡聚剧┃四盘","type": 3,"api": "csp_SeedhubGuard","ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable": 1,"quickSearch": 1,"changeable": 0,"indexs": 0},
@@ -30,7 +31,6 @@
     {"key": "看球","name": "⚽八八┃看球","type": 3,"api": "csp_KanqiuGuard","timeout": 10,"searchable": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "多多","name": "🏀多多┃回放","type": 3,"api": "csp_DoubaoGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
     {"key": "吃瓜","name": "🏐吃瓜┃看球","type": 3,"api": "csp_LiveGzGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
-    {"key": "alllive","name": "🎮一直播┃直播","type": 3,"api": "csp_AllliveGuard","style": {"type": "rect","ratio": 1.597},"timeout": 15,"playerType": "2","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="},
     {"key": "MTV","name": "🎶明星┃MV","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},
     {"key": "有声小说","name": "🎧有声┃小说","type": 3,"api": "csp_YueTingGuard","style": {"type": "rect","ratio": 1},"searchable": 0,"quickSearch": 0,"changeable": 0},
     {"key": "Aid","name": "🚑急救┃教学","type": 3,"api": "csp_FirstAidGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
