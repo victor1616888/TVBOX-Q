@@ -10,7 +10,7 @@
 //chixin仓库：https://v6.gh-proxy.org/https://raw.githubusercontent.com/ChiXin696/TVbox/main/ChiXin.json
 //大全仓库：https://github.com/hd9211/Tvbox1/blob/main/duocang1.json
 //多仓库：https://github.com/Jsnzkpg/Jsnzkpg/blob/81d4d2e1ee6fb335cf8e7be59ed2ef733c31acfc/Jsnzkpg2
-
+//牛虎仓库：https://v6.gh-proxy.org/https://github.com/niubihu1/tvbox/blob/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt
 {
   "urls": [
     
@@ -25,8 +25,6 @@
       "name": "🙀摸鱼儿"
     },
 
-{
-  "urls": [
     {
       "url": "https://9877.kstore.space/sun.json",
       "name": "潇洒直通"
@@ -47,6 +45,11 @@
   {
       "url": "http://hb.小虎斑.site:25252/仅供测试",
       "name": "🚀小虎斑"
+    },
+
+{
+      "url": "https://v6.gh-proxy.org/https://github.com/niubihu1/tvbox/blob/main/%E8%87%AA%E7%94%A8%E4%BB%93%E5%BA%93.txt",
+      "name": "牛虎仓库"
     },
 {
       "url": "https://tv.菜妮丝.top",
